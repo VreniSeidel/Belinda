@@ -2,11 +2,11 @@
     "list": [
         {
             "word": "Hello",
-            "translate": "Privet"
+            "translation": "Privet"
         },
         {
             "word": "Hi",
-            "translate": "Privetik"
+            "translation": "Privetik"
         }
     ]
 }
