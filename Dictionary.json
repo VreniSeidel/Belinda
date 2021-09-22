@@ -1,12 +1,234 @@
 {
     "list": [
         {
-            "word": "Hello",
-            "translation": "Privet"
+            "word": "ich",
+            "transcript": "[iɦ]",
+            "translation": "I, me"
         },
         {
-            "word": "Hi",
-            "translation": "Privetik"
+            "word": "du",
+            "transcript": "[dʊ]",
+            "translation": "you"
+        },
+        {
+            "word": "er",
+            "transcript": "[ər]",
+            "translation": "he"
+        },
+        {
+            "word": "sie",
+            "transcript": "[zi:]",
+            "translation": "she"
+        },
+        {
+            "word": "es",
+            "transcript": "[ɛs]",
+            "translation": "it"
+        },
+        {
+            "word": "wir",
+            "transcript": "[wi:r]",
+            "translation": "we"
+        },
+        {
+            "word": "ihr",
+            "transcript": "[i:r]",
+            "translation": "you (to a group)"
+        },
+        {
+            "word": "Sie",
+            "transcript": "[zi:]",
+            "translation": "you (polite, sing.)"
+        },
+        {
+            "word": "Sie",
+            "transcript": "[zi:]",
+            "translation": "you (polite, pl) "
+        },
+        {
+            "word": "sie",
+            "transcript": "[zi:]",
+            "translation": "they"
+        },
+        {
+            "word": "Hallo!",
+            "transcript": "[ha′lø:]",
+            "translation": "Hello! (fam.)"
+        },
+        {
+            "word": "Hallo!",
+            "transcript": "[ha′lø:]",
+            "translation": "Hello! (form.)"
+        },
+        {
+            "word": "Guten Morgen!",
+            "transcript": "[′gʊ:tn ′mɔrgn]",
+            "translation": "Good morning!"
+        },
+        {
+            "word": "Guten Tag!",
+            "transcript": "[′gʊ:tn ′tak]",
+            "translation": "Good afternoon!"
+        },
+        {
+            "word": "Guten Abend!",
+            "transcript": "[′gʊ:tn ′abɛnt]",
+            "translation": "Good evening!"
+        },
+        {
+            "word": "grüßen (vi, vt)",
+            "transcript": "[′gry:sən]",
+            "translation": "to say hello"
+        },
+        {
+            "word": "Hallo!",
+            "transcript": " [ha′lø:]",
+            "translation": "Hi! (hello)"
+        },
+        {
+            "word": "Gruß (m)",
+            "transcript": "[grʊ:s]",
+            "translation": "greeting (n)"
+        },
+        {
+            "word": "begrüßen (vt)",
+            "transcript": "[bəg′rysən]",
+            "translation": "to greet (vt)"
+        },
+        {
+            "word": " Wie geht's?",
+            "transcript": "[wi ′ge:t ɛs]",
+            "translation": "How are you?"
+        },
+        {
+            "word": "Was gibt es Neues?",
+            "transcript": "[vas gipt ɛs ′nɔjes]",
+            "translation": "What's new? "
+        },
+        {
+            "word": "Auf Wiedersehen!",
+            "transcript": "[′auf ′wi:dɛrze:ən]",
+            "translation": "Bye-Bye! Goodbye!"
+        },
+        {
+            "word": "Bis bald!",
+            "transcript": "[bis balt]",
+            "translation": "See you soon!"
+        },
+        {
+            "word": "Lebe wohl!",
+            "transcript": "[′le:bə vɔ:l]",
+            "translation": "Farewell! (to a friend)"
+        },
+        {
+            "word": "Leben Sie wohl!",
+            "transcript": "[′le:bən zi: vɔl]",
+            "translation": "Farewell (form.)"
+        },
+        {
+            "word": "sich verabschieden",
+            "transcript": "[ziɦ fɛrʰ′apʃi:dn]",
+            "translation": "to say goodbye"
+        },
+        {
+            "word": "Tschüs!",
+            "transcript": "[ʧus]",
+            "translation": "So long!"
+        },
+        {
+            "word": "Danke!",
+            "transcript": "[′daŋkə]",
+            "translation": "Thank you!"
+        },
+        {
+            "word": "Dankeschön!",
+            "transcript": "[′daŋkə ′ʃɔn]",
+            "translation": "Thank you very much!"
+        },
+        {
+            "word": "Bitte!",
+            "transcript": "[′bitə]",
+            "translation": "You're welcome"
+        },
+        {
+            "word": "Keine Ursache!",
+            "transcript": "[′kaınɛ ′u:zahə]",
+            "translation": "Don't mention it!"
+        },
+        {
+            "word": "Nichts zu danken!",
+            "transcript": "[niɦts tsu ′daŋkən]",
+            "translation": "It was nothing"
+        },
+        {
+            "word": "Entschuldige!",
+            "transcript": "[ɛnt′ʃʊldigə]",
+            "translation": "Excuse me! (fam.)"
+        },
+        {
+            "word": "Entschuldigung!",
+            "transcript": "[ɛnt′ʃʊldigʊŋ]",
+            "translation": "Excuse me! (form.)"
+        },
+        {
+            "word": "entschuldigen (vt)",
+            "transcript": "[ɛnt′ʃʊldigən]",
+            "translation": "to excuse (forgive)"
+        },
+        {
+            "word": "sich entschuldigen",
+            "transcript": "[ziɦ ɛnt′ʃʊldigən]",
+            "translation": "to apologize (vi)"
+        },
+        {
+            "word": "Verzeihung!",
+            "transcript": "[fɛr′tsajuŋ]",
+            "translation": "My apologies"
+        },
+        {
+            "word": "Entschuldigung!",
+            "transcript": "[ɛnt′ʃʊldigʊŋ]",
+            "translation": "I'm sorry!"
+        },
+        {
+            "word": "verzeihen (vt)",
+            "transcript": "[fɛr′tsaıən]",
+            "translation": "to forgive (vt)"
+        },
+        {
+            "word": "Das macht nichts!",
+            "transcript": "[das maht niɦts]",
+            "translation": "It's okay!"
+        },
+        {
+            "word": "bitte",
+            "transcript": "[′bitə]",
+            "translation": "please (adv)"
+        },
+        {
+            "word": "Nicht vergessen!",
+            "transcript": "[niɦt fɛr′gɛsən]",
+            "translation": "Don't forget!"
+        },
+        {
+            "word": "Natürlich!",
+            "transcript": "[na′tyrliɦ]",
+            "translation": "Certainly!"
+        },
+        {
+            "word": "Natürlich nicht!",
+            "transcript": "[na′tyrliɦ ′niɦt]",
+            "translation": "Of course not!"
+        },
+        {
+            "word": "Gut! Okay!",
+            "transcript": "[gʊ:t ɔ′kɛı]",
+            "translation": "Okay! (I agree)"
+        },
+        {
+            "word": "Es ist genug!",
+            "transcript": "[ɛs ist gɛ′nʊk]",
+            "translation": "That's enough!"
         }
     ]
 }

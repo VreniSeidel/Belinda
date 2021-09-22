@@ -1,34 +1,45 @@
 import React from 'react';
-import { StyleSheet, Text, View, TouchableOpacity } from 'react-native';
+import { StyleSheet, Text, View, TouchableOpacity, Alert } from 'react-native';
+
 
 const Title = () => {
 
-    return (
+    const infoBox = () =>
+    Alert.alert(
+        "ℹ️ Info",
+        "Language learning app, made with ❤️, without ads and tracking. GitHub: vreniseidel492",
+        [
+            { 
+                text: "OK",
+            }
+        ]
+    );
 
-      	<View style={styles.tasksWrapper}>
+
+    return (
+      	<View style={ styles.titleWrapper }>
 
             {/* Name of Title */}
-        	<Text style={styles.sectionTitle}>Belinda</Text>
+        	<Text style={ styles.titleText }>Belinda</Text>
 
             {/* Info box */}
-        	<TouchableOpacity style={styles.space}>
-          		<Text style={styles.secondTitleText}>&#x2139;</Text>
+        	<TouchableOpacity onPress={ infoBox } style={ styles.spaceBetween }>
+          		<Text style={ styles.secondTitleText }>&#x2139;</Text>
         	</TouchableOpacity>
 
       	</View>
-
     );
 }
 
 const styles = StyleSheet.create({
-    tasksWrapper: {
+    titleWrapper: {
         paddingTop: 80,
         paddingHorizontal: 20,
         flexDirection: 'row',
     },
-    sectionTitle: {
+    titleText: {
         fontFamily: 'monospace',
-        fontSize: 25,
+        fontSize: 26,
         fontWeight: 'bold',
     },
     secondTitleText: {
@@ -36,7 +47,7 @@ const styles = StyleSheet.create({
         fontSize: 24,
         fontWeight: 'bold',
     },
-    space: {
+    spaceBetween: {
         height: 50,
         paddingLeft: 165
     }

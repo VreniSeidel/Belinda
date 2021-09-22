@@ -1,82 +1,75 @@
 import React from 'react';
 import { StyleSheet, Text, View, TouchableOpacity } from 'react-native';
-
-import json from './Dictionary.json'
-
+import dictionary from './Dictionary.json'
 
 {/* Wait function for refreshing screen */}
 const wait = (timeout) => {
     return new Promise(resolve => setTimeout(resolve, timeout));
 }
 
+const Center = () => {
 
-const Center = ({ reload }) => {
-	{/* Random number from Dictionary */}
-    let value = () => Math.floor(Math.random() * json.list.length)
-	let index = value()
-	
 	{/* State for refreshing screen */}
 	const [refreshing, setRefreshing] = React.useState(false);
 
-    const onRefresh = React.useCallback(() => {
+	{/* Refresh */}
+	const onRefresh = React.useCallback(() => {
         setRefreshing(true);
         wait(10).then(() => setRefreshing(false));
     }, []);
 
+	{/* Random number from Dictionary */}
+    const value = () => Math.floor(Math.random() * dictionary.list.length)
+	const index = value()
+
     return (
-        <View>
+        <View >
+
+			<TouchableOpacity onPress={ onRefresh } style={ styles.wrapperCenter }>
+                {/* Text from Dictionary */}
+            	<Text style={ styles.wrapperTextFirst }>{dictionary.list[index]['word']}{"\n"}</Text>
+				<Text style={ styles.wrapperTextSecond }>{dictionary.list[index]['transcript']}{"\n"}</Text>
+				<Text style={ styles.wrapperTextThird }>{dictionary.list[index]['translation']}</Text>
+				<Text style={ styles.buttonContent }>&#10140;</Text>
+            </TouchableOpacity>
 			
-			{/* Text from Dictionary */}
-          	<TouchableOpacity style={styles.wrapperFirst}>
-                <Text style={styles.wrapperFirstText}>{json.list[index]['word']}{"\n\n"}</Text>
-                <Text style={styles.wrapperFirstText}>{json.list[index]['translation']}</Text>
-            </TouchableOpacity>
-
-			{/* Refresh button */}
-			<TouchableOpacity onPress={onRefresh} style={styles.wrapperSecond}>
-                <Text style={styles.wrapperSecondText}>&#10140;</Text>
-            </TouchableOpacity>
-
         </View>
     )
 }
 
 const styles = StyleSheet.create({
-  	wrapperFirst: {
+	wrapperCenter: {
     	width: 335,
-    	height: 500,
-    	backgroundColor: '#00FFFA',
+    	height: 650,
     	margin: 20,
     	elevation: 10,
-    	justifyContent: 'center',
+    	justifyContent: 'flex-start',
+		backgroundColor: '#00FFFA',
     	alignItems: 'center',
     	borderColor: '#C0C0C0',
-    	borderWidth: 0.5,
-   		borderRadius: 15,
+    	borderWidth: 0.1,
+   		borderRadius: 10,
   	},
-  	wrapperSecond: {
-    	width: 335,
-    	height: 100,
-    	backgroundColor: '#00FFFA',
-    	marginTop: 0,
-    	margin: 20,
-    	elevation: 10,
-    	justifyContent: 'center',
-    	alignItems: 'center',
-    	borderColor: '#C0C0C0',
-    	borderWidth: 0.5,
-    	borderRadius: 15,
-  	},
-  	wrapperFirstText: {
+  	wrapperTextFirst: {
+		marginTop: 140,
     	fontFamily: 'monospace',
     	fontSize: 20,
     	fontWeight: 'bold',
   	},
-  	wrapperSecondText: {
+	wrapperTextSecond: {
     	fontFamily: 'monospace',
-    	fontSize: 24,
+    	fontSize: 14,
     	fontWeight: 'bold',
   	},
+	wrapperTextThird: {
+    	fontFamily: 'monospace',
+    	fontSize: 16,
+    	fontWeight: 'bold',
+  	},
+	buttonContent: {
+		fontSize: 30,
+		marginTop: 170,
+	},
 });
 
 export default Center
