@@ -229,6 +229,296 @@
             "word": "Es ist genug!",
             "transcript": "[ɛs ist gɛ′nʊk]",
             "translation": "That's enough!"
-        }
+        },
+        {
+            "word": "Herr",
+            "transcript": "[hɛr]",
+            "translation": "mister, sir"
+        },
+        {
+            "word": "Frau",
+            "transcript": "[′frau]",
+            "translation": "ma'am"
+        },
+        {
+            "word": "Frau",
+            "transcript": "[′frau]",
+            "translation": "miss"
+        },
+        {
+            "word": "Junger Mann",
+            "transcript": "[′juŋə man]",
+            "translation": "young man"
+        },
+        {
+            "word": "Junge",
+            "transcript": "[′juŋə]",
+            "translation": "young man (little boy)"
+        },
+        {
+            "word": "null",
+            "transcript": "[nʊl]",
+            "translation": "0 zero"
+        },
+        {
+            "word": "eins",
+            "transcript": "[aıns]",
+            "translation": "1 one"
+        },
+        {
+            "word": "zwei",
+            "transcript": "[tsvaı]",
+            "translation": "2 two"
+        },
+        {
+            "word": "drei",
+            "transcript": "[draı]",
+            "translation": "3 three"
+        },
+        {
+            "word": "vier",
+            "transcript": "[fi:ə]",
+            "translation": "4 four"
+        },
+        {
+            "word": "fünf",
+            "transcript": "[fynf]",
+            "translation": "5 five"
+        },
+        {
+            "word": "sechs",
+            "transcript": "[zɛks]",
+            "translation": "6 six"
+        },
+        {
+            "word": "sieben",
+            "transcript": "[zi:bn]",
+            "translation": "7 seven"
+        },
+        {
+            "word": "acht",
+            "transcript": "[aht]",
+            "translation": "8 eight"
+        },
+        {
+            "word": "neun",
+            "transcript": "[nɔın]",
+            "translation": "9 nine"
+        },
+        {
+            "word": "zehn",
+            "transcript": "[tse:n]",
+            "translation": "10 ten"
+        },
+        {
+            "word": "elf",
+            "transcript": "[ɛlf]",
+            "translation": "11 eleven"
+        },
+        {
+            "word": "zwölf",
+            "transcript": "[′tswølf]",
+            "translation": "12 twelve"
+        },
+        {
+            "word": "dreizehn",
+            "transcript": "[′draıtsɛın]",
+            "translation": "13 thirteen"
+        },
+        {
+            "word": "vierzehn",
+            "transcript": "[′firtse:n]",
+            "translation": "14 fourteen"
+        },
+        {
+            "word": "fünfzehn",
+            "transcript": "[′fynftsɛın]",
+            "translation": "15 fifteen"
+        },
+        {
+            "word": "sechzehn",
+            "transcript": "[′zɛɦtsɛ:n]",
+            "translation": "16 sixteen"
+        },
+        {
+            "word": "siebzehn",
+            "transcript": "[′zi:ptsɛın]",
+            "translation": "17 seventeen"
+        },
+        {
+            "word": "achtzehn",
+            "transcript": "[′ahtsɛın]",
+            "translation": "18 eighteen"
+        },
+        {
+            "word": "neunzehn",
+            "transcript": "[′nɔıntsɛın]",
+            "translation": "19 nineteen"
+        },
+        {
+            "word": "zwanzig",
+            "transcript": "[′tsvantsiɦ]",
+            "translation": "20 twenty"
+        },
+        {
+            "word": "einundzwanzig",
+            "transcript": "[′aın unt ′tsvantsiɦ]",
+            "translation": "21 twenty-one"
+        },
+        {
+            "word": "zweiundzwanzig",
+            "transcript": "[′tsvaı unt ′tsvantsiɦ]",
+            "translation": "22 twenty-two"
+        },
+        {
+            "word": "dreiundzwanzig",
+            "transcript": "[′draı unt ′tsvantsiɦ]",
+            "translation": "23 twenty-three"
+        },
+        {
+            "word": "dreißig",
+            "transcript": "[′draısiɦ]",
+            "translation": "30 thirty"
+        },
+        {
+            "word": "einunddreißig",
+            "transcript": "[′aın unt ′draısiɦ]",
+            "translation": "31 thirty-one"
+        },
+        {
+            "word": "zweiunddreißig",
+            "transcript": "[′tsvaı unt ′draısiɦ]",
+            "translation": "32 thirty-two"
+        },
+        {
+            "word": "dreiunddreißig",
+            "transcript": "[′draı unt ′draısiɦ]",
+            "translation": "33 thirty-three"
+        },
+        {
+            "word": "vierzig",
+            "transcript": "[′firtsiɦ]",
+            "translation": "40 forty"
+        },
+        {
+            "word": "einundvierzig",
+            "transcript": "[′aın unt ′firtsiɦ]",
+            "translation": "41 forty-one"
+        },
+        {
+            "word": "zweiundvierzig",
+            "transcript": "[′tsvaı unt ′firtsiɦ]",
+            "translation": "42 forty-two"
+        },
+        {
+            "word": "dreiundvierzig",
+            "transcript": "[′draı unt ′firtsiɦ]",
+            "translation": "43 forty-three"
+        },
+        {
+            "word": "fünfzig",
+            "transcript": "[′fynftsiɦ]",
+            "translation": "50 fifty"
+        },
+        {
+            "word": "einundfünfzig",
+            "transcript": "[′aın unt ′fynftsiɦ]",
+            "translation": "51 fifty-one"
+        },
+        {
+            "word": "zweiundfünfzig",
+            "transcript": "[′tsvaı unt ′fynftsiɦ]",
+            "translation": "52 fifty-two"
+        },
+        {
+            "word": "dreiundfünfzig",
+            "transcript": "[′draı unt ′fynftsiɦ]",
+            "translation": "53 fifty-three"
+        },
+        {
+            "word": "sechzig",
+            "transcript": "[′zɛɦtsiɦ]",
+            "translation": "60 sixty"
+        },
+        {
+            "word": "einundsechzig",
+            "transcript": "[′aın unt ′zɛɦtsiɦ]",
+            "translation": "61 sixty-one"
+        },
+        {
+            "word": "zweiundsechzig",
+            "transcript": "[′tsvaı unt ′zɛɦtsiɦ]",
+            "translation": "62 sixty-two"
+        },
+        {
+            "word": "dreiundsechzig",
+            "transcript": "[′draı unt ′zɛɦtsiɦ]",
+            "translation": "63 sixty-three"
+        },
+        {
+            "word": "siebzig",
+            "transcript": "[′zi:ptsiɦ]",
+            "translation": "70 seventy"
+        },
+        {
+            "word": "einundsiebzig",
+            "transcript": "[′aın unt ′zi:ptsiɦ]",
+            "translation": "71 seventy-one"
+        },
+        {
+            "word": "zweiundsiebzig",
+            "transcript": "[′tsvaı unt ′zi:ptsiɦ]",
+            "translation": "72 seventy-two"
+        },
+        {
+            "word": "dreiundsiebzig",
+            "transcript": "[′draı unt ′zi:ptsiɦ]",
+            "translation": "73 seventy-three"
+        },
+        {
+            "word": "achtzig",
+            "transcript": "[′ahtsiɦ]",
+            "translation": "80 eighty"
+        },
+        {
+            "word": "einundachtzig",
+            "transcript": "[′aın unt ′ahtsiɦ]",
+            "translation": "81 eighty-one"
+        },
+        {
+            "word": "zweiundachtzig",
+            "transcript": "[′tsvaı unt ′ahtsiɦ]",
+            "translation": "82 eighty-two"
+        },
+        {
+            "word": "dreiundachtzig",
+            "transcript": "[′draı unt ′ahtsiɦ]",
+            "translation": "83 eighty-three"
+        },
+        {
+            "word": "neunzig",
+            "transcript": "[′nɔıntsiɦ]",
+            "translation": "90 ninety"
+        },
+        {
+            "word": "einundneunzig",
+            "transcript": "[′aın unt ′nɔıntsiɦ]",
+            "translation": "91 ninety-one"
+        },
+        {
+            "word": "zweiundneunzig",
+            "transcript": "[′tsvaı unt ′nɔıntsiɦ]",
+            "translation": "92 ninety-two"
+        },
+        {
+            "word": "dreiundneunzig",
+            "transcript": "[′draı unt ′nɔıntsiɦ]",
+            "translation": "93 ninety-three"
+        },
+        {
+            "word": "",
+            "transcript": "",
+            "translation": ""
+        },
     ]
 }
