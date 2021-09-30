@@ -40,7 +40,7 @@ const Center = () => {
 const styles = StyleSheet.create({
 	wrapperCenter: {
     	width: 335,
-    	height: 650,
+    	height: 600,
     	margin: 20,
     	elevation: 10,
     	justifyContent: 'flex-start',
