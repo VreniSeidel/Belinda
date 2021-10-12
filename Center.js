@@ -1,6 +1,6 @@
 import React from 'react';
 import { StyleSheet, Text, View, TouchableOpacity } from 'react-native';
-import dictionary from './Dictionary.json'
+import dictionary from './dictionary_rus_eng.json'
 
 {/* Wait function for refreshing screen */}
 const wait = (timeout) => {
@@ -28,7 +28,6 @@ const Center = () => {
 			<TouchableOpacity onPress={ onRefresh } style={ styles.wrapperCenter }>
                 {/* Text from Dictionary */}
             	<Text style={ styles.wrapperTextFirst }>{dictionary.list[index]['word']}{"\n"}</Text>
-				<Text style={ styles.wrapperTextSecond }>{dictionary.list[index]['transcript']}{"\n"}</Text>
 				<Text style={ styles.wrapperTextThird }>{dictionary.list[index]['translation']}</Text>
 				<Text style={ styles.buttonContent }>&#10140;</Text>
             </TouchableOpacity>
