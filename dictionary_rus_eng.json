@@ -1,0 +1,3008 @@
+{
+    "list": [
+        {
+            "word": "я",
+            "translation": "I, me"
+        },
+        {
+            "word": "ты",
+            "translation": "you"
+        },
+        {
+            "word": "он",
+            "translation": "he"
+        },
+        {
+            "word": "она",
+            "translation": "she"
+        },
+        {
+            "word": "оно",
+            "translation": "it"
+        },
+        {
+            "word": "мы",
+            "translation": "we"
+        },
+        {
+            "word": "вы",
+            "translation": "you"
+        },
+        {
+            "word": "они",
+            "translation": "they"
+        },
+        {
+            "word": "Здравствуй!",
+            "translation": "Hello!"
+        },
+        {
+            "word": "Здравствуйте!",
+            "translation": "Hello!"
+        },
+        {
+            "word": "Доброе утро!",
+            "translation": "Good morning!"
+        },
+        {
+            "word": "Добрый день!",
+            "translation": "Good afternoon!"
+        },
+        {
+            "word": "Добрый вечер!",
+            "translation": "Good evening!"
+        },
+        {
+            "word": "здороваться",
+            "translation": "to say hello"
+        },
+        {
+            "word": "Привет!",
+            "translation": "Hi!"
+        },
+        {
+            "word": "привет, приветствие",
+            "translation": "greeting"
+        },
+        {
+            "word": "приветствовать",
+            "translation": "to greet"
+        },
+        {
+            "word": "Как дела?",
+            "translation": "How are you?"
+        },
+        {
+            "word": "Что нового?",
+            "translation": "What's new?"
+        },
+        {
+            "word": "До свидания!",
+            "translation": "Bye-Bye! Goodbye!"
+        },
+        {
+            "word": "До скорой встречи!",
+            "translation": "See you soon!"
+        },
+        {
+            "word": "прощаться",
+            "translation": "to say goodbye"
+        },
+        {
+            "word": "Пока!",
+            "translation": "Cheers!"
+        },
+        {
+            "word": "Спасибо!",
+            "translation": "Thank you! Cheers!"
+        },
+        {
+            "word": "Большое спасибо!",
+            "translation": "Thank you very much!"
+        },
+        {
+            "word": "Пожалуйста (ответ)",
+            "translation": "My pleasure!"
+        },
+        {
+            "word": "Не стоит благодарности",
+            "translation": "Don't mention it!"
+        },
+        {
+            "word": "Извини! Извините!",
+            "translation": "Excuse me!"
+        },
+        {
+            "word": "извинять",
+            "translation": "to excuse"
+        },
+        {
+            "word": "извиняться",
+            "translation": "to apologize"
+        },
+        {
+            "word": "Мои извинения.",
+            "translation": "My apologies"
+        },
+        {
+            "word": "Простите!",
+            "translation": "I'm sorry!"
+        },
+        {
+            "word": "Ничего страшного (ответ)",
+            "translation": "It's okay!"
+        },
+        {
+            "word": "пожалуйста (при просьбе)",
+            "translation": "please"
+        },
+        {
+            "word": "Не забудьте!",
+            "translation": "Don't forget!"
+        },
+        {
+            "word": "Конечно!",
+            "translation": "Certainly!"
+        },
+        {
+            "word": "Конечно нет!",
+            "translation": "Of course not!"
+        },
+        {
+            "word": "Согласен!",
+            "translation": "Okay!"
+        },
+        {
+            "word": "Хватит!",
+            "translation": "That's enough!"
+        },
+        {
+            "word": "господин",
+            "translation": "mister, sir"
+        },
+        {
+            "word": "госпожа",
+            "translation": "madam"
+        },
+        {
+            "word": "девушка",
+            "translation": "miss"
+        },
+        {
+            "word": "молодой человек",
+            "translation": "young man"
+        },
+        {
+            "word": "мальчик",
+            "translation": "young man"
+        },
+        {
+            "word": "девочка",
+            "translation": "miss"
+        },
+        {
+            "word": "0 ноль",
+            "translation": "zero"
+        },
+        {
+            "word": "1 один",
+            "translation": "one"
+        },
+        {
+            "word": "2 два",
+            "translation": "two"
+        },
+        {
+            "word": "3 три",
+            "translation": "three"
+        },
+        {
+            "word": "4 четыре",
+            "translation": "four"
+        },
+        {
+            "word": "5 пять",
+            "translation": "five"
+        },
+        {
+            "word": "6 шесть",
+            "translation": "six"
+        },
+        {
+            "word": "7 семь",
+            "translation": "seven"
+        },
+        {
+            "word": "8 восемь",
+            "translation": "eight"
+        },
+        {
+            "word": "9 девять",
+            "translation": "nine"
+        },
+        {
+            "word": "10 десять",
+            "translation": "ten"
+        },
+        {
+            "word": "11 одиннадцать",
+            "translation": "eleven"
+        },
+        {
+            "word": "12 двенадцать",
+            "translation": "twelve"
+        },
+        {
+            "word": "13 тринадцать",
+            "translation": "thirteen"
+        },
+        {
+            "word": "14 четырнадцать",
+            "translation": "fourteen"
+        },
+        {
+            "word": "15 пятнадцать",
+            "translation": "fifteen"
+        },
+        {
+            "word": "16 шестнадцать",
+            "translation": "sixteen"
+        },
+        {
+            "word": "17 семнадцать",
+            "translation": "seventeen"
+        },
+        {
+            "word": "18 восемнадцать",
+            "translation": "eighteen"
+        },
+        {
+            "word": "19 девятнадцать",
+            "translation": "nineteen"
+        },
+        {
+            "word": "20 двадцать",
+            "translation": "twenty"
+        },
+        {
+            "word": "21 двадцать один",
+            "translation": "twenty-one"
+        },
+        {
+            "word": "22 двадцать два",
+            "translation": "twenty-two"
+        },
+        {
+            "word": "23 двадцать три",
+            "translation": "twenty-three"
+        },
+        {
+            "word": "30 тридцать",
+            "translation": "thirty"
+        },
+        {
+            "word": "31 тридцать один",
+            "translation": "thirty-one"
+        },
+        {
+            "word": "32 тридцать два",
+            "translation": "thirty-two"
+        },
+        {
+            "word": "33 тридцать три",
+            "translation": "thirty-three"
+        },
+        {
+            "word": "40 сорок",
+            "translation": "forty"
+        },
+        {
+            "word": "41 сорок один",
+            "translation": "forty-one"
+        },
+        {
+            "word": "42 сорок два",
+            "translation": "forty-two"
+        },
+        {
+            "word": "43 сорок три",
+            "translation": "forty-three"
+        },
+        {
+            "word": "50 пятьдесят",
+            "translation": "fifty"
+        },
+        {
+            "word": "51 пятьдесят один",
+            "translation": "fifty-one"
+        },
+        {
+            "word": "52 пятьдесят два",
+            "translation": "fifty-two"
+        },
+        {
+            "word": "53 пятьдесят три",
+            "translation": "fifty-three"
+        },
+        {
+            "word": "60 шестьдесят",
+            "translation": "sixty"
+        },
+        {
+            "word": "61 шестьдесят один",
+            "translation": "sixty-one"
+        },
+        {
+            "word": "62 шестьдесят два",
+            "translation": "sixty-two"
+        },
+        {
+            "word": "63 шестьдесят три",
+            "translation": "sixty-three"
+        },
+        {
+            "word": "70 семьдесят",
+            "translation": "seventy"
+        },
+        {
+            "word": "71 семьдесят один",
+            "translation": "seventy-one"
+        },
+        {
+            "word": "72 семьдесят два",
+            "translation": "seventy-two"
+        },
+        {
+            "word": "73 семьдесят три",
+            "translation": "seventy-three"
+        },
+        {
+            "word": "80 восемьдесят",
+            "translation": "eighty"
+        },
+        {
+            "word": "81 восемьдесят один",
+            "translation": "eighty-one"
+        },
+        {
+            "word": "82 восемьдесят два",
+            "translation": "eighty-two"
+        },
+        {
+            "word": "83 восемьдесят три",
+            "translation": "ceighty-three"
+        },
+        {
+            "word": "90 девяносто",
+            "translation": "ninety"
+        },
+        {
+            "word": "91 девяносто один",
+            "translation": "ninety-one"
+        },
+        {
+            "word": "92 девяносто два",
+            "translation": "ninety-two"
+        },
+        {
+            "word": "93 девяносто три",
+            "translation": "ninety-three"
+        },
+        {
+            "word": "100 сто",
+            "translation": "one hundred"
+        },
+        {
+            "word": "200 двести",
+            "translation": "two hundred"
+        },
+        {
+            "word": "300 триста",
+            "translation": "three hundred"
+        },
+        {
+            "word": "400 четыреста",
+            "translation": "four hundred"
+        },
+        {
+            "word": "500 пятьсот",
+            "translation": "five hundred"
+        },
+        {
+            "word": "600 шестьсот",
+            "translation": "six hundred"
+        },
+        {
+            "word": "700 семьсот",
+            "translation": "seven hundred"
+        },
+        {
+            "word": "800 восемьсот",
+            "translation": "eight hundred"
+        },
+        {
+            "word": "900 девятьсот",
+            "translation": "nine hundred"
+        },
+        {
+            "word": "1000 тысяча",
+            "translation": "thousand"
+        },
+        {
+            "word": "2000 две тысячи",
+            "translation": "two thousand"
+        },
+        {
+            "word": "3000 три тысячи",
+            "translation": "three thousand"
+        },
+        {
+            "word": "10000 десять тысяч",
+            "translation": "ten thousand"
+        },
+        {
+            "word": "100000 сто тысяч",
+            "translation": "one hundred thousand"
+        },
+        {
+            "word": "миллион",
+            "translation": "million"
+        },
+        {
+            "word": "миллиард",
+            "translation": "billion"
+        },
+        {
+            "word": "первый",
+            "translation": "first"
+        },
+        {
+            "word": "второй",
+            "translation": "second"
+        },
+        {
+            "word": "третий",
+            "translation": "third"
+        },
+        {
+            "word": "четвёртый",
+            "translation": "fourth"
+        },
+        {
+            "word": "пятый",
+            "translation": "fifth"
+        },
+        {
+            "word": "шестой",
+            "translation": "sixth"
+        },
+        {
+            "word": "седьмой",
+            "translation": "seventh"
+        },
+        {
+            "word": "восьмой",
+            "translation": "eighth"
+        },
+        {
+            "word": "девятый",
+            "translation": "ninth"
+        },
+        {
+            "word": "десятый",
+            "translation": "tenth"
+        },
+        {
+            "word": "дробь",
+            "translation": "fraction"
+        },
+        {
+            "word": "одна вторая",
+            "translation": "one half"
+        },
+        {
+            "word": "одна третья",
+            "translation": "one third"
+        },
+        {
+            "word": "одна четвертая",
+            "translation": "one quarter"
+        },
+        {
+            "word": "одна восьмая",
+            "translation": "one eighth"
+        },
+        {
+            "word": "одна десятая",
+            "translation": "one tenth"
+        },
+        {
+            "word": "две третьих",
+            "translation": "two thirds"
+        },
+        {
+            "word": "три четвёртых",
+            "translation": "three quarters"
+        },
+        {
+            "word": "вычитание",
+            "translation": "subtraction"
+        },
+        {
+            "word": "вычитать",
+            "translation": "to subtract"
+        },
+        {
+            "word": "деление",
+            "translation": "division"
+        },
+        {
+            "word": "делить",
+            "translation": "to divide"
+        },
+        {
+            "word": "сложение",
+            "translation": "addition"
+        },
+        {
+            "word": "сложить (матем.)",
+            "translation": "to add up"
+        },
+        {
+            "word": "прибавлять",
+            "translation": "to add"
+        },
+        {
+            "word": "умножение",
+            "translation": "multiplication"
+        },
+        {
+            "word": "умножать",
+            "translation": "to multiply"
+        },
+        {
+            "word": "цифра",
+            "translation": "figure"
+        },
+        {
+            "word": "число",
+            "translation": "number"
+        },
+        {
+            "word": "числительное",
+            "translation": "numeral"
+        },
+        {
+            "word": "минус",
+            "translation": "minus"
+        },
+        {
+            "word": "плюс",
+            "translation": "plus"
+        },
+        {
+            "word": "формула",
+            "translation": "formula"
+        },
+        {
+            "word": "вычисление",
+            "translation": "calculation"
+        },
+        {
+            "word": "считать",
+            "translation": "to count"
+        },
+        {
+            "word": "сравнивать",
+            "translation": "to compare"
+        },
+        {
+            "word": "Сколько? (неисчисл.)",
+            "translation": "How much?"
+        },
+        {
+            "word": "Сколько? (исчисл.)",
+            "translation": "How many?"
+        },
+        {
+            "word": "сумма",
+            "translation": "sum, total"
+        },
+        {
+            "word": "результат",
+            "translation": "result"
+        },
+        {
+            "word": "остаток",
+            "translation": "remainder"
+        },
+        {
+            "word": "несколько",
+            "translation": "a few ..."
+        },
+        {
+            "word": "немного",
+            "translation": "few ..."
+        },
+        {
+            "word": "остальное",
+            "translation": "the rest"
+        },
+        {
+            "word": "полтора",
+            "translation": "one and a half"
+        },
+        {
+            "word": "дюжина",
+            "translation": "dozen"
+        },
+        {
+            "word": "пополам (на 2 части)",
+            "translation": "in half"
+        },
+        {
+            "word": "поровну",
+            "translation": "equally"
+        },
+        {
+            "word": "половина",
+            "translation": "half"
+        },
+        {
+            "word": "раз",
+            "translation": "time"
+        },
+        {
+            "word": "бежать",
+            "translation": "to run"
+        },
+        {
+            "word": "бояться",
+            "translation": "to be afraid"
+        },
+        {
+            "word": "брать",
+            "translation": "to take"
+        },
+        {
+            "word": "быть",
+            "translation": "to be"
+        },
+        {
+            "word": "видеть",
+            "translation": "to see"
+        },
+        {
+            "word": "владеть",
+            "translation": "to own"
+        },
+        {
+            "word": "возражать",
+            "translation": "to object"
+        },
+        {
+            "word": "входить (в комнату и т.п.)",
+            "translation": "to come in"
+        },
+        {
+            "word": "выбирать",
+            "translation": "to choose"
+        },
+        {
+            "word": "выходить (из дома)",
+            "translation": "to go out"
+        },
+        {
+            "word": "говорить (разговаривать)",
+            "translation": "to speak"
+        },
+        {
+            "word": "готовить (обед)",
+            "translation": "to cook"
+        },
+        {
+            "word": "давать",
+            "translation": "to give"
+        },
+        {
+            "word": "делать",
+            "translation": "to do"
+        },
+        {
+            "word": "доверять",
+            "translation": "to trust"
+        },
+        {
+            "word": "думать",
+            "translation": "to think"
+        },
+        {
+            "word": "жаловаться",
+            "translation": "to complain"
+        },
+        {
+            "word": "ждать",
+            "translation": "to wait"
+        },
+        {
+            "word": "забывать",
+            "translation": "to forget"
+        },
+        {
+            "word": "завтракать",
+            "translation": "to have breakfast"
+        },
+        {
+            "word": "заказывать",
+            "translation": "to order"
+        },
+        {
+            "word": "заканчивать",
+            "translation": "to finish"
+        },
+        {
+            "word": "замечать (увидеть)",
+            "translation": "to notice"
+        },
+        {
+            "word": "записывать",
+            "translation": "to write down"
+        },
+        {
+            "word": "защищать (страну)",
+            "translation": "to defend"
+        },
+        {
+            "word": "звать (на помощь и т.п.)",
+            "translation": "to call"
+        },
+        {
+            "word": "знать (кого-л.)",
+            "translation": "to know"
+        },
+        {
+            "word": "знать (что-л.)",
+            "translation": "to know"
+        },
+        {
+            "word": "играть",
+            "translation": "to play"
+        },
+        {
+            "word": "идти",
+            "translation": "to go"
+        },
+        {
+            "word": "извинять",
+            "translation": "to excuse"
+        },
+        {
+            "word": "изменить (поменять)",
+            "translation": "to change"
+        },
+        {
+            "word": "изучать",
+            "translation": "to study"
+        },
+        {
+            "word": "иметь",
+            "translation": "to have"
+        },
+        {
+            "word": "интересоваться",
+            "translation": "to be interested in ..."
+        },
+        {
+            "word": "информировать",
+            "translation": "to inform"
+        },
+        {
+            "word": "искать ...",
+            "translation": "to look for ..."
+        },
+        {
+            "word": "контролировать",
+            "translation": "to control"
+        },
+        {
+            "word": "красть",
+            "translation": "to steal"
+        },
+        {
+            "word": "кричать",
+            "translation": "to shout"
+        },
+        {
+            "word": "купаться (в море и т.п.)",
+            "translation": "to go for a swim"
+        },
+        {
+            "word": "лететь",
+            "translation": "to fly"
+        },
+        {
+            "word": "ловить",
+            "translation": "to catch"
+        },
+        {
+            "word": "ломать",
+            "translation": "to break"
+        },
+        {
+            "word": "любить (кого-л.)",
+            "translation": "to love"
+        },
+        {
+            "word": "молиться",
+            "translation": "to pray"
+        },
+        {
+            "word": "молчать",
+            "translation": "to keep silent"
+        },
+        {
+            "word": "мочь",
+            "translation": "can"
+        },
+        {
+            "word": "наблюдать",
+            "translation": "to observe"
+        },
+        {
+            "word": "надеяться",
+            "translation": "to hope"
+        },
+        {
+            "word": "наказывать",
+            "translation": "to punish"
+        },
+        {
+            "word": "настаивать (упорствовать)",
+            "translation": "to insist"
+        },
+        {
+            "word": "находить",
+            "translation": "to find"
+        },
+        {
+            "word": "начинать",
+            "translation": "to begin"
+        },
+        {
+            "word": "недооценивать",
+            "translation": "to underestimate"
+        },
+        {
+            "word": "нравиться",
+            "translation": "to fancy"
+        },
+        {
+            "word": "обедать",
+            "translation": "to have lunch"
+        },
+        {
+            "word": "обещать",
+            "translation": "to promise"
+        },
+        {
+            "word": "обманывать",
+            "translation": "to deceive"
+        },
+        {
+            "word": "обсуждать",
+            "translation": "to discuss"
+        },
+        {
+            "word": "объединять",
+            "translation": "to unite"
+        },
+        {
+            "word": "объяснять",
+            "translation": "to explain"
+        },
+        {
+            "word": "означать",
+            "translation": "to mean"
+        },
+        {
+            "word": "освобождать (город)",
+            "translation": "to liberate"
+        },
+        {
+            "word": "оскорблять",
+            "translation": "to insult"
+        },
+        {
+            "word": "останавливаться",
+            "translation": "to stop"
+        },
+        {
+            "word": "отвечать",
+            "translation": "to answer"
+        },
+        {
+            "word": "отгадать",
+            "translation": "to guess right"
+        },
+        {
+            "word": "отказываться",
+            "translation": "to refuse"
+        },
+        {
+            "word": "открывать (дверь и т.п.)",
+            "translation": "to open"
+        },
+        {
+            "word": "отправлять",
+            "translation": "to send"
+        },
+        {
+            "word": "охотиться",
+            "translation": "to hunt"
+        },
+        {
+            "word": "ошибаться",
+            "translation": "to make a mistake"
+        },
+        {
+            "word": "падать",
+            "translation": "to fall"
+        },
+        {
+            "word": "переводить (текст)",
+            "translation": "to translate"
+        },
+        {
+            "word": "писать",
+            "translation": "to write"
+        },
+        {
+            "word": "плавать",
+            "translation": "to swim"
+        },
+        {
+            "word": "плакать",
+            "translation": "to cry"
+        },
+        {
+            "word": "планировать",
+            "translation": "to plan"
+        },
+        {
+            "word": "платить",
+            "translation": "to pay"
+        },
+        {
+            "word": "поворачивать",
+            "translation": "to turn"
+        },
+        {
+            "word": "повторять",
+            "translation": "to repeat"
+        },
+        {
+            "word": "подписывать",
+            "translation": "to sign"
+        },
+        {
+            "word": "подсказать (отгадку)",
+            "translation": "to give a hint"
+        },
+        {
+            "word": "показывать",
+            "translation": "to show"
+        },
+        {
+            "word": "помогать",
+            "translation": "to help"
+        },
+        {
+            "word": "понимать",
+            "translation": "to understand"
+        },
+        {
+            "word": "предвидеть (ожидать)",
+            "translation": "to expect"
+        },
+        {
+            "word": "предлагать",
+            "translation": "to propose"
+        },
+        {
+            "word": "предпочитать",
+            "translation": "to prefer"
+        },
+        {
+            "word": "предупреждать",
+            "translation": "to warn"
+        },
+        {
+            "word": "прекращать",
+            "translation": "to stop"
+        },
+        {
+            "word": "приглашать",
+            "translation": "to invite"
+        },
+        {
+            "word": "приезжать",
+            "translation": "to arrive"
+        },
+        {
+            "word": "приказывать",
+            "translation": "to order"
+        },
+        {
+            "word": "принадлежать",
+            "translation": "to belong to ..."
+        },
+        {
+            "word": "пробовать (пытаться)",
+            "translation": "to try"
+        },
+        {
+            "word": "продавать",
+            "translation": "to sell"
+        },
+        {
+            "word": "продолжать",
+            "translation": "to continue"
+        },
+        {
+            "word": "произносить (слово)",
+            "translation": "to pronounce"
+        },
+        {
+            "word": "пропускать (занятия и т.п.)",
+            "translation": "to miss"
+        },
+        {
+            "word": "просить",
+            "translation": "to ask"
+        },
+        {
+            "word": "прощать",
+            "translation": "to forgive"
+        },
+        {
+            "word": "прятать",
+            "translation": "to hide"
+        },
+        {
+            "word": "путать (ошибаться)",
+            "translation": "to confuse, to mix up"
+        },
+        {
+            "word": "работать",
+            "translation": "to work"
+        },
+        {
+            "word": "разрешать",
+            "translation": "to permit"
+        },
+        {
+            "word": "рассчитывать на ...",
+            "translation": "to count on ..."
+        },
+        {
+            "word": "резервировать",
+            "translation": "to reserve, to book"
+        },
+        {
+            "word": "рекомендовать",
+            "translation": "to recommend"
+        },
+        {
+            "word": "ронять",
+            "translation": "to drop"
+        },
+        {
+            "word": "ругать",
+            "translation": "to scold"
+        },
+        {
+            "word": "руководить (чем-л.)",
+            "translation": "to run, to manage"
+        },
+        {
+            "word": "рыть",
+            "translation": "to dig"
+        },
+        {
+            "word": "садиться",
+            "translation": "to sit down"
+        },
+        {
+            "word": "сказать",
+            "translation": "to say"
+        },
+        {
+            "word": "следовать за ...",
+            "translation": "to follow ..."
+        },
+        {
+            "word": "слышать",
+            "translation": "to hear"
+        },
+        {
+            "word": "смеяться",
+            "translation": "to laugh"
+        },
+        {
+            "word": "снимать (напр. квартиру)",
+            "translation": "to rent"
+        },
+        {
+            "word": "советовать",
+            "translation": "to advise"
+        },
+        {
+            "word": "соглашаться",
+            "translation": "to agree"
+        },
+        {
+            "word": "сожалеть",
+            "translation": "to regret"
+        },
+        {
+            "word": "создать",
+            "translation": "to create"
+        },
+        {
+            "word": "сомневаться",
+            "translation": "to doubt"
+        },
+        {
+            "word": "сохранять",
+            "translation": "to keep"
+        },
+        {
+            "word": "спасать",
+            "translation": "to save, to rescue"
+        },
+        {
+            "word": "спрашивать",
+            "translation": "to ask"
+        },
+        {
+            "word": "спускаться",
+            "translation": "to come down"
+        },
+        {
+            "word": "сравнивать",
+            "translation": "to compare"
+        },
+        {
+            "word": "стоить",
+            "translation": "to cost"
+        },
+        {
+            "word": "стрелять",
+            "translation": "to shoot"
+        },
+        {
+            "word": "существовать",
+            "translation": "to exist"
+        },
+        {
+            "word": "считать (подсчитывать)",
+            "translation": "to count"
+        },
+        {
+            "word": "торопиться",
+            "translation": "to hurry"
+        },
+        {
+            "word": "требовать",
+            "translation": "to demand"
+        },
+        {
+            "word": "требоваться",
+            "translation": "to be needed"
+        },
+        {
+            "word": "трогать",
+            "translation": "to touch"
+        },
+        {
+            "word": "убивать",
+            "translation": "to kill"
+        },
+        {
+            "word": "угрожать",
+            "translation": "to threaten"
+        },
+        {
+            "word": "удивляться",
+            "translation": "to be surprised"
+        },
+        {
+            "word": "ужинать",
+            "translation": "to have dinner"
+        },
+        {
+            "word": "украшать",
+            "translation": "to decorate"
+        },
+        {
+            "word": "улыбаться",
+            "translation": "to smile"
+        },
+        {
+            "word": "упоминать",
+            "translation": "to mention"
+        },
+        {
+            "word": "участвовать",
+            "translation": "to participate"
+        },
+        {
+            "word": "хвастаться",
+            "translation": "to boast"
+        },
+        {
+            "word": "хотеть",
+            "translation": "to want"
+        },
+        {
+            "word": "хотеть есть",
+            "translation": "to be hungry"
+        },
+        {
+            "word": "хотеть пить",
+            "translation": "to be thirsty"
+        },
+        {
+            "word": "читать",
+            "translation": "to read"
+        },
+        {
+            "word": "шутить",
+            "translation": "to joke"
+        },
+        {
+            "word": "цвет",
+            "translation": "colour"
+        },
+        {
+            "word": "оттенок",
+            "translation": "shade"
+        },
+        {
+            "word": "тон",
+            "translation": "hue"
+        },
+        {
+            "word": "радуга",
+            "translation": "rainbow"
+        },
+        {
+            "word": "белый",
+            "translation": "white"
+        },
+        {
+            "word": "чёрный",
+            "translation": "black"
+        },
+        {
+            "word": "серый",
+            "translation": "grey"
+        },
+        {
+            "word": "зелёный",
+            "translation": "green"
+        },
+        {
+            "word": "жёлтый",
+            "translation": "yellow"
+        },
+        {
+            "word": "красный",
+            "translation": "red"
+        },
+        {
+            "word": "синий",
+            "translation": "blue"
+        },
+        {
+            "word": "голубой",
+            "translation": "light blue"
+        },
+        {
+            "word": "розовый",
+            "translation": "pink"
+        },
+        {
+            "word": "оранжевый",
+            "translation": "orange"
+        },
+        {
+            "word": "фиолетовый",
+            "translation": "violet"
+        },
+        {
+            "word": "коричневый",
+            "translation": "brown"
+        },
+        {
+            "word": "золотой",
+            "translation": "golden"
+        },
+        {
+            "word": "серебристый",
+            "translation": "silvery"
+        },
+        {
+            "word": "бежевый",
+            "translation": "beige"
+        },
+        {
+            "word": "кремовый",
+            "translation": "cream"
+        },
+        {
+            "word": "бирюзовый",
+            "translation": "turquoise"
+        },
+        {
+            "word": "вишнёвый",
+            "translation": "cherry red"
+        },
+        {
+            "word": "лиловый",
+            "translation": "lilac"
+        },
+        {
+            "word": "малиновый",
+            "translation": "crimson"
+        },
+        {
+            "word": "светлый",
+            "translation": "light"
+        },
+        {
+            "word": "тёмный",
+            "translation": "dark"
+        },
+        {
+            "word": "яркий",
+            "translation": "bright"
+        },
+        {
+            "word": "цветной (карандаш)",
+            "translation": "coloured"
+        },
+        {
+            "word": "цветной (фильм)",
+            "translation": "colour"
+        },
+        {
+            "word": "чёрно-белый",
+            "translation": "black-and-white"
+        },
+        {
+            "word": "одноцветный",
+            "translation": "plain"
+        },
+        {
+            "word": "разноцветный",
+            "translation": "multicoloured"
+        },
+        {
+            "word": "Кто?",
+            "translation": "Who?"
+        },
+        {
+            "word": "Что?",
+            "translation": "What?"
+        },
+        {
+            "word": "Где?",
+            "translation": "Where?"
+        },
+        {
+            "word": "Куда?",
+            "translation": "Where?"
+        },
+        {
+            "word": "Откуда?",
+            "translation": "Where ... from?"
+        },
+        {
+            "word": "Когда?",
+            "translation": "When?"
+        },
+        {
+            "word": "Зачем?",
+            "translation": "Why?"
+        },
+        {
+            "word": "Для чего?",
+            "translation": "What for?"
+        },
+        {
+            "word": "Как?",
+            "translation": "How?"
+        },
+        {
+            "word": "Который?",
+            "translation": "Which?"
+        },
+        {
+            "word": "Кому?",
+            "translation": "To whom?"
+        },
+        {
+            "word": "О ком?",
+            "translation": "About whom?"
+        },
+        {
+            "word": "О чём?",
+            "translation": "About what?"
+        },
+        {
+            "word": "С кем?",
+            "translation": "With whom?"
+        },
+        {
+            "word": "Сколько? (исчисл.)",
+            "translation": "How many?"
+        },
+        {
+            "word": "Сколько? (неисчисл.)",
+            "translation": "How much?"
+        },
+        {
+            "word": "Чей?",
+            "translation": "Whose?"
+        },
+        {
+            "word": "с ... (с кем-л.)",
+            "translation": "with"
+        },
+        {
+            "word": "без (~ сахара и т.п.)",
+            "translation": "without"
+        },
+        {
+            "word": "в (предлог движения)",
+            "translation": "to"
+        },
+        {
+            "word": "о (говорить о ...)",
+            "translation": "about"
+        },
+        {
+            "word": "перед (во времени)",
+            "translation": "before"
+        },
+        {
+            "word": "перед (в пространстве)",
+            "translation": "in front of ..."
+        },
+        {
+            "word": "под (внизу)",
+            "translation": "under"
+        },
+        {
+            "word": "над (наверху)",
+            "translation": "above"
+        },
+        {
+            "word": "на (на чём-то)",
+            "translation": "on"
+        },
+        {
+            "word": "из (откуда-то)",
+            "translation": "from"
+        },
+        {
+            "word": "из (о материале)",
+            "translation": "of"
+        },
+        {
+            "word": "через ... (о времени)",
+            "translation": "in"
+        },
+        {
+            "word": "через (о препятствии)",
+            "translation": "over"
+        },
+        {
+            "word": "Где?",
+            "translation": "Where?"
+        },
+        {
+            "word": "здесь",
+            "translation": "here"
+        },
+        {
+            "word": "там",
+            "translation": "there"
+        },
+        {
+            "word": "где-то",
+            "translation": "somewhere"
+        },
+        {
+            "word": "нигде",
+            "translation": "nowhere"
+        },
+        {
+            "word": "у ... (около)",
+            "translation": "by"
+        },
+        {
+            "word": "у окна",
+            "translation": "by the window"
+        },
+        {
+            "word": "Куда?",
+            "translation": "Where?"
+        },
+        {
+            "word": "сюда",
+            "translation": "here"
+        },
+        {
+            "word": "туда",
+            "translation": "there"
+        },
+        {
+            "word": "отсюда",
+            "translation": "from here"
+        },
+        {
+            "word": "оттуда",
+            "translation": "from there"
+        },
+        {
+            "word": "близко",
+            "translation": "close"
+        },
+        {
+            "word": "далеко",
+            "translation": "far"
+        },
+        {
+            "word": "недалеко (ехать, идти)",
+            "translation": "not far"
+        },
+        {
+            "word": "левый",
+            "translation": "left"
+        },
+        {
+            "word": "слева",
+            "translation": "on the left"
+        },
+        {
+            "word": "налево",
+            "translation": "to the left"
+        },
+        {
+            "word": "правый",
+            "translation": "right"
+        },
+        {
+            "word": "справа",
+            "translation": "on the right"
+        },
+        {
+            "word": "направо",
+            "translation": "to the right"
+        },
+        {
+            "word": "спереди",
+            "translation": "in front"
+        },
+        {
+            "word": "передний",
+            "translation": "front"
+        },
+        {
+            "word": "вперёд (движение)",
+            "translation": "ahead"
+        },
+        {
+            "word": "сзади (находиться)",
+            "translation": "behind"
+        },
+        {
+            "word": "сзади (подойти)",
+            "translation": "from behind"
+        },
+        {
+            "word": "назад (движение)",
+            "translation": "back"
+        },
+        {
+            "word": "середина",
+            "translation": "middle"
+        },
+        {
+            "word": "посередине",
+            "translation": "in the middle"
+        },
+        {
+            "word": "сбоку (со стороны)",
+            "translation": "at the side"
+        },
+        {
+            "word": "везде",
+            "translation": "everywhere"
+        },
+        {
+            "word": "вокруг",
+            "translation": "around"
+        },
+        {
+            "word": "изнутри",
+            "translation": "from inside"
+        },
+        {
+            "word": "куда-то",
+            "translation": "somewhere"
+        },
+        {
+            "word": "напрямик",
+            "translation": "straight"
+        },
+        {
+            "word": "обратно",
+            "translation": "back"
+        },
+        {
+            "word": "откуда-нибудь",
+            "translation": "from anywhere"
+        },
+        {
+            "word": "откуда-то",
+            "translation": "from somewhere"
+        },
+        {
+            "word": "во-первых",
+            "translation": "firstly"
+        },
+        {
+            "word": "во-вторых",
+            "translation": "secondly"
+        },
+        {
+            "word": "в-третьих",
+            "translation": "thirdly"
+        },
+        {
+            "word": "вдруг",
+            "translation": "suddenly"
+        },
+        {
+            "word": "вначале",
+            "translation": "at first"
+        },
+        {
+            "word": "впервые",
+            "translation": "for the first time"
+        },
+        {
+            "word": "задолго до ...",
+            "translation": "long before ..."
+        },
+        {
+            "word": "насовсем",
+            "translation": "for good"
+        },
+        {
+            "word": "никогда",
+            "translation": "never"
+        },
+        {
+            "word": "опять",
+            "translation": "again"
+        },
+        {
+            "word": "теперь",
+            "translation": "now"
+        },
+        {
+            "word": "часто",
+            "translation": "often"
+        },
+        {
+            "word": "тогда",
+            "translation": "then"
+        },
+        {
+            "word": "срочно",
+            "translation": "urgently"
+        },
+        {
+            "word": "обычно",
+            "translation": "usually"
+        },
+        {
+            "word": "кстати, ...",
+            "translation": "by the way, ..."
+        },
+        {
+            "word": "возможно",
+            "translation": "possible"
+        },
+        {
+            "word": "вероятно",
+            "translation": "probably"
+        },
+        {
+            "word": "может быть",
+            "translation": "maybe"
+        },
+        {
+            "word": "кроме того, ...",
+            "translation": "besides ..."
+        },
+        {
+            "word": "поэтому ...",
+            "translation": "that's why ..."
+        },
+        {
+            "word": "несмотря на ...",
+            "translation": "in spite of ..."
+        },
+        {
+            "word": "благодаря ...",
+            "translation": "thanks to ..."
+        },
+        {
+            "word": "что (местоимение)",
+            "translation": "what"
+        },
+        {
+            "word": "что (союз)",
+            "translation": "that"
+        },
+        {
+            "word": "что-то",
+            "translation": "something"
+        },
+        {
+            "word": "что-нибудь",
+            "translation": "anything, something"
+        },
+        {
+            "word": "ничего",
+            "translation": "nothing"
+        },
+        {
+            "word": "кто",
+            "translation": "who"
+        },
+        {
+            "word": "кто-то",
+            "translation": "someone"
+        },
+        {
+            "word": "кто-нибудь",
+            "translation": "somebody"
+        },
+        {
+            "word": "никто",
+            "translation": "nobody"
+        },
+        {
+            "word": "никуда",
+            "translation": "nowhere"
+        },
+        {
+            "word": "ничей",
+            "translation": "nobody's"
+        },
+        {
+            "word": "чей-нибудь",
+            "translation": "somebody's"
+        },
+        {
+            "word": "так",
+            "translation": "so"
+        },
+        {
+            "word": "также",
+            "translation": "also"
+        },
+        {
+            "word": "тоже",
+            "translation": "too"
+        },
+        {
+            "word": "18. Вводные и служебные слова. Наречия - 2",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+    ]
+}
