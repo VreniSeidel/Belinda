@@ -5113,6 +5113,958 @@
             "translation": "chewing gum"
         },
         {
+            "word": "вода",
+            "translation": "water"
+        },
+        {
+            "word": "питьевая вода",
+            "translation": "drinking water"
+        },
+        {
+            "word": "минеральная вода",
+            "translation": "mineral water"
+        },
+        {
+            "word": "без газа",
+            "translation": "still"
+        },
+        {
+            "word": "газированный",
+            "translation": "carbonated"
+        },
+        {
+            "word": "с газом",
+            "translation": "sparkling"
+        },
+        {
+            "word": "лёд",
+            "translation": "ice"
+        },
+        {
+            "word": "со льдом",
+            "translation": "with ice"
+        },
+        {
+            "word": "безалкогольный",
+            "translation": "non-alcoholic"
+        },
+        {
+            "word": "безалкогольный напиток",
+            "translation": "soft drink"
+        },
+        {
+            "word": "прохладительный напиток",
+            "translation": "cool soft drink"
+        },
+        {
+            "word": "лимонад",
+            "translation": "lemonade"
+        },
+        {
+            "word": "алкогольные напитки",
+            "translation": "spirits"
+        },
+        {
+            "word": "вино",
+            "translation": "wine"
+        },
+        {
+            "word": "белое вино",
+            "translation": "white wine"
+        },
+        {
+            "word": "красное вино",
+            "translation": "red wine"
+        },
+        {
+            "word": "ликёр",
+            "translation": "liqueur"
+        },
+        {
+            "word": "шампанское",
+            "translation": "champagne"
+        },
+        {
+            "word": "вермут",
+            "translation": "vermouth"
+        },
+        {
+            "word": "виски",
+            "translation": "whisky"
+        },
+        {
+            "word": "водка",
+            "translation": "vodka"
+        },
+        {
+            "word": "джин",
+            "translation": "gin"
+        },
+        {
+            "word": "коньяк",
+            "translation": "cognac"
+        },
+        {
+            "word": "ром",
+            "translation": "rum"
+        },
+        {
+            "word": "кофе",
+            "translation": "coffee"
+        },
+        {
+            "word": "чёрный кофе",
+            "translation": "black coffee"
+        },
+        {
+            "word": "кофе с молоком",
+            "translation": "white coffee"
+        },
+        {
+            "word": "капучино",
+            "translation": "cappuccino"
+        },
+        {
+            "word": "растворимый кофе",
+            "translation": "instant coffee"
+        },
+        {
+            "word": "молоко",
+            "translation": "milk"
+        },
+        {
+            "word": "коктейль",
+            "translation": "cocktail"
+        },
+        {
+            "word": "молочный коктейль",
+            "translation": "milk shake"
+        },
+        {
+            "word": "сок",
+            "translation": "juice"
+        },
+        {
+            "word": "томатный сок",
+            "translation": "tomato juice"
+        },
+        {
+            "word": "апельсиновый сок",
+            "translation": "orange juice"
+        },
+        {
+            "word": "свежевыжатый сок",
+            "translation": "freshly squeezed juice"
+        },
+        {
+            "word": "пиво",
+            "translation": "beer"
+        },
+        {
+            "word": "светлое пиво",
+            "translation": "lager"
+        },
+        {
+            "word": "тёмное пиво",
+            "translation": "bitter"
+        },
+        {
+            "word": "чай",
+            "translation": "tea"
+        },
+        {
+            "word": "чёрный чай",
+            "translation": "black tea"
+        },
+        {
+            "word": "зелёный чай",
+            "translation": "green tea"
+        },
+        {
+            "word": "овощи",
+            "translation": "vegetables"
+        },
+        {
+            "word": "зелень",
+            "translation": "greens"
+        },
+        {
+            "word": "помидор",
+            "translation": "tomato"
+        },
+        {
+            "word": "огурец",
+            "translation": "cucumber"
+        },
+        {
+            "word": "морковь",
+            "translation": "carrot"
+        },
+        {
+            "word": "картофель",
+            "translation": "potato"
+        },
+        {
+            "word": "лук (луковица)",
+            "translation": "onion"
+        },
+        {
+            "word": "чеснок",
+            "translation": "garlic"
+        },
+        {
+            "word": "капуста",
+            "translation": "cabbage"
+        },
+        {
+            "word": "цветная капуста",
+            "translation": "cauliflower"
+        },
+        {
+            "word": "брюссельская капуста",
+            "translation": "Brussels sprouts"
+        },
+        {
+            "word": "капуста брокколи",
+            "translation": "broccoli"
+        },
+        {
+            "word": "свёкла",
+            "translation": "beetroot"
+        },
+        {
+            "word": "баклажан",
+            "translation": "aubergine"
+        },
+        {
+            "word": "кабачок",
+            "translation": "marrow"
+        },
+        {
+            "word": "тыква",
+            "translation": "pumpkin"
+        },
+        {
+            "word": "репа",
+            "translation": "turnip"
+        },
+        {
+            "word": "петрушка",
+            "translation": "parsley"
+        },
+        {
+            "word": "укроп",
+            "translation": "dill"
+        },
+        {
+            "word": "салат (латук)",
+            "translation": "lettuce"
+        },
+        {
+            "word": "сельдерей",
+            "translation": "celery"
+        },
+        {
+            "word": "спаржа",
+            "translation": "asparagus"
+        },
+        {
+            "word": "шпинат",
+            "translation": "spinach"
+        },
+        {
+            "word": "горох",
+            "translation": "pea"
+        },
+        {
+            "word": "бобы",
+            "translation": "beans"
+        },
+        {
+            "word": "кукуруза",
+            "translation": "maize"
+        },
+        {
+            "word": "фасоль",
+            "translation": "kidney bean"
+        },
+        {
+            "word": "перец",
+            "translation": "bell pepper"
+        },
+        {
+            "word": "редис",
+            "translation": "radish"
+        },
+        {
+            "word": "артишок",
+            "translation": "artichoke"
+        },
+        {
+            "word": "фрукт",
+            "translation": "fruit"
+        },
+        {
+            "word": "яблоко",
+            "translation": "apple"
+        },
+        {
+            "word": "груша",
+            "translation": "pear"
+        },
+        {
+            "word": "лимон",
+            "translation": "lemon"
+        },
+        {
+            "word": "апельсин",
+            "translation": "orange"
+        },
+        {
+            "word": "клубника",
+            "translation": "strawberry"
+        },
+        {
+            "word": "мандарин",
+            "translation": "tangerine"
+        },
+        {
+            "word": "слива",
+            "translation": "plum"
+        },
+        {
+            "word": "персик",
+            "translation": "peach"
+        },
+        {
+            "word": "абрикос",
+            "translation": "apricot"
+        },
+        {
+            "word": "малина",
+            "translation": "raspberry"
+        },
+        {
+            "word": "ананас",
+            "translation": "pineapple"
+        },
+        {
+            "word": "банан",
+            "translation": "banana"
+        },
+        {
+            "word": "арбуз",
+            "translation": "watermelon"
+        },
+        {
+            "word": "виноград",
+            "translation": "grape"
+        },
+        {
+            "word": "вишня",
+            "translation": "sour cherry"
+        },
+        {
+            "word": "черешня",
+            "translation": "sweet cherry"
+        },
+        {
+            "word": "дыня",
+            "translation": "melon"
+        },
+        {
+            "word": "грейпфрут",
+            "translation": "grapefruit"
+        },
+        {
+            "word": "авокадо",
+            "translation": "avocado"
+        },
+        {
+            "word": "папайя",
+            "translation": "papaya"
+        },
+        {
+            "word": "манго",
+            "translation": "mango"
+        },
+        {
+            "word": "гранат",
+            "translation": "pomegranate"
+        },
+        {
+            "word": "красная смородина",
+            "translation": "redcurrant"
+        },
+        {
+            "word": "чёрная смородина",
+            "translation": "blackcurrant"
+        },
+        {
+            "word": "крыжовник",
+            "translation": "gooseberry"
+        },
+        {
+            "word": "черника",
+            "translation": "bilberry"
+        },
+        {
+            "word": "ежевика",
+            "translation": "blackberry"
+        },
+        {
+            "word": "изюм",
+            "translation": "raisin"
+        },
+        {
+            "word": "инжир",
+            "translation": "fig"
+        },
+        {
+            "word": "финик",
+            "translation": "date"
+        },
+        {
+            "word": "арахис",
+            "translation": "peanut"
+        },
+        {
+            "word": "миндаль",
+            "translation": "almond"
+        },
+        {
+            "word": "орех (грецкий)",
+            "translation": "walnut"
+        },
+        {
+            "word": "орех (лесной)",
+            "translation": "hazelnut"
+        },
+        {
+            "word": "орех кокосовый",
+            "translation": "coconut"
+        },
+        {
+            "word": "фисташки",
+            "translation": "pistachios"
+        },
+        {
+            "word": "кондитерские изделия",
+            "translation": "confectionery"
+        },
+        {
+            "word": "хлеб",
+            "translation": "bread"
+        },
+        {
+            "word": "печенье",
+            "translation": "biscuits"
+        },
+        {
+            "word": "шоколад",
+            "translation": "chocolate"
+        },
+        {
+            "word": "шоколадный",
+            "translation": "chocolate"
+        },
+        {
+            "word": "конфета",
+            "translation": "sweet"
+        },
+        {
+            "word": "пирожное",
+            "translation": "cake"
+        },
+        {
+            "word": "торт",
+            "translation": "cake"
+        },
+        {
+            "word": "пирог",
+            "translation": "pie"
+        },
+        {
+            "word": "начинка",
+            "translation": "filling"
+        },
+        {
+            "word": "варенье",
+            "translation": "jam"
+        },
+        {
+            "word": "мармелад",
+            "translation": "marmalade"
+        },
+        {
+            "word": "вафли",
+            "translation": "waffle"
+        },
+        {
+            "word": "мороженое",
+            "translation": "ice-cream"
+        },
+        {
+            "word": "пудинг",
+            "translation": "pudding"
+        },
+        {
+            "word": "блюдо",
+            "translation": "course, dish"
+        },
+        {
+            "word": "кухня (национальная)",
+            "translation": "cuisine"
+        },
+        {
+            "word": "рецепт (кулинарн.)",
+            "translation": "recipe"
+        },
+        {
+            "word": "порция",
+            "translation": "portion"
+        },
+        {
+            "word": "салат",
+            "translation": "salad"
+        },
+        {
+            "word": "суп",
+            "translation": "soup"
+        },
+        {
+            "word": "бульон",
+            "translation": "clear soup"
+        },
+        {
+            "word": "бутерброд",
+            "translation": "sandwich"
+        },
+        {
+            "word": "яичница",
+            "translation": "fried eggs"
+        },
+        {
+            "word": "котлета",
+            "translation": "cutlet"
+        },
+        {
+            "word": "гамбургер",
+            "translation": "hamburger"
+        },
+        {
+            "word": "бифштекс",
+            "translation": "steak"
+        },
+        {
+            "word": "жаркое",
+            "translation": "roast meat"
+        },
+        {
+            "word": "гарнир",
+            "translation": "garnish"
+        },
+        {
+            "word": "спагетти",
+            "translation": "spaghetti"
+        },
+        {
+            "word": "картофельное пюре",
+            "translation": "mash"
+        },
+        {
+            "word": "пицца",
+            "translation": "pizza"
+        },
+        {
+            "word": "каша",
+            "translation": "porridge"
+        },
+        {
+            "word": "омлет",
+            "translation": "omelette"
+        },
+        {
+            "word": "варёный",
+            "translation": "boiled"
+        },
+        {
+            "word": "копчёный",
+            "translation": "smoked"
+        },
+        {
+            "word": "жареный (на сковороде)",
+            "translation": "fried"
+        },
+        {
+            "word": "сушёный",
+            "translation": "dried"
+        },
+        {
+            "word": "замороженный",
+            "translation": "frozen"
+        },
+        {
+            "word": "маринованный",
+            "translation": "pickled"
+        },
+        {
+            "word": "сладкий (о чае, кофе)",
+            "translation": "sweet"
+        },
+        {
+            "word": "солёный",
+            "translation": "salty"
+        },
+        {
+            "word": "холодный",
+            "translation": "cold"
+        },
+        {
+            "word": "горячий",
+            "translation": "hot"
+        },
+        {
+            "word": "горький",
+            "translation": "bitter"
+        },
+        {
+            "word": "вкусный",
+            "translation": "tasty"
+        },
+        {
+            "word": "варить (готовить)",
+            "translation": "to cook"
+        },
+        {
+            "word": "готовить (ужин)",
+            "translation": "to cook"
+        },
+        {
+            "word": "жарить",
+            "translation": "to fry"
+        },
+        {
+            "word": "разогревать",
+            "translation": "to heat up"
+        },
+        {
+            "word": "солить",
+            "translation": "to salt"
+        },
+        {
+            "word": "перчить",
+            "translation": "to pepper"
+        },
+        {
+            "word": "тереть (на тёрке)",
+            "translation": "to grate"
+        },
+        {
+            "word": "кожура",
+            "translation": "peel"
+        },
+        {
+            "word": "чистить (картошку и т.п.)",
+            "translation": "to peel"
+        },
+        {
+            "word": "50. Приправы. Специи",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
             "word": "",
             "translation": ""
         },
