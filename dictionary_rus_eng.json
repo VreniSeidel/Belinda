@@ -8053,6 +8053,1526 @@
             "translation": "to praise"
         },
         {
+            "word": "успех",
+            "translation": "success"
+        },
+        {
+            "word": "успешно",
+            "translation": "successfully"
+        },
+        {
+            "word": "успешный",
+            "translation": "successful"
+        },
+        {
+            "word": "удача (везение)",
+            "translation": "good luck"
+        },
+        {
+            "word": "Удачи!",
+            "translation": "Good luck!"
+        },
+        {
+            "word": "удачный",
+            "translation": "lucky"
+        },
+        {
+            "word": "удачливый (человек)",
+            "translation": "lucky"
+        },
+        {
+            "word": "неудача (провал)",
+            "translation": "failure"
+        },
+        {
+            "word": "неудача (невезение)",
+            "translation": "misfortune"
+        },
+        {
+            "word": "невезение",
+            "translation": "bad luck"
+        },
+        {
+            "word": "неудачный (попытка)",
+            "translation": "unsuccessful"
+        },
+        {
+            "word": "катастрофа (перен.)",
+            "translation": "catastrophe"
+        },
+        {
+            "word": "гордость",
+            "translation": "pride"
+        },
+        {
+            "word": "гордый",
+            "translation": "proud"
+        },
+        {
+            "word": "гордиться",
+            "translation": "to be proud"
+        },
+        {
+            "word": "победитель",
+            "translation": "winner"
+        },
+        {
+            "word": "победить",
+            "translation": "to win"
+        },
+        {
+            "word": "проиграть (в спорте)",
+            "translation": "to lose"
+        },
+        {
+            "word": "попытка",
+            "translation": "try"
+        },
+        {
+            "word": "пытаться",
+            "translation": "to try"
+        },
+        {
+            "word": "шанс",
+            "translation": "chance"
+        },
+        {
+            "word": "крик",
+            "translation": "shout"
+        },
+        {
+            "word": "кричать",
+            "translation": "to shout"
+        },
+        {
+            "word": "закричать",
+            "translation": "to start to cry out"
+        },
+        {
+            "word": "ссора (перебранка)",
+            "translation": "quarrel"
+        },
+        {
+            "word": "ссориться",
+            "translation": "to quarrel"
+        },
+        {
+            "word": "скандал (ссора)",
+            "translation": "fight"
+        },
+        {
+            "word": "скандалить",
+            "translation": "to have a fight"
+        },
+        {
+            "word": "конфликт",
+            "translation": "conflict"
+        },
+        {
+            "word": "недоразумение",
+            "translation": "misunderstanding"
+        },
+        {
+            "word": "оскорбление",
+            "translation": "insult"
+        },
+        {
+            "word": "оскорблять",
+            "translation": "to insult"
+        },
+        {
+            "word": "оскорбленный",
+            "translation": "insulted"
+        },
+        {
+            "word": "обида",
+            "translation": "offence"
+        },
+        {
+            "word": "обидеть",
+            "translation": "to offend"
+        },
+        {
+            "word": "обидеться",
+            "translation": "to take offence"
+        },
+        {
+            "word": "возмущение",
+            "translation": "indignation"
+        },
+        {
+            "word": "возмущаться",
+            "translation": "to be indignant"
+        },
+        {
+            "word": "жалоба",
+            "translation": "complaint"
+        },
+        {
+            "word": "жаловаться",
+            "translation": "to complain"
+        },
+        {
+            "word": "извинение",
+            "translation": "apology"
+        },
+        {
+            "word": "извиняться",
+            "translation": "to apologize"
+        },
+        {
+            "word": "просить прощения",
+            "translation": "to beg pardon"
+        },
+        {
+            "word": "критика",
+            "translation": "criticism"
+        },
+        {
+            "word": "критиковать",
+            "translation": "to criticize"
+        },
+        {
+            "word": "обвинение",
+            "translation": "accusation"
+        },
+        {
+            "word": "обвинять",
+            "translation": "to accuse"
+        },
+        {
+            "word": "месть",
+            "translation": "revenge"
+        },
+        {
+            "word": "мстить",
+            "translation": "to avenge"
+        },
+        {
+            "word": "презрение",
+            "translation": "disdain"
+        },
+        {
+            "word": "презирать",
+            "translation": "to despise"
+        },
+        {
+            "word": "ненависть",
+            "translation": "hatred, hate"
+        },
+        {
+            "word": "ненавидеть",
+            "translation": "to hate"
+        },
+        {
+            "word": "нервный",
+            "translation": "nervous"
+        },
+        {
+            "word": "нервничать",
+            "translation": "to be nervous"
+        },
+        {
+            "word": "сердитый",
+            "translation": "angry"
+        },
+        {
+            "word": "рассердить",
+            "translation": "to make angry"
+        },
+        {
+            "word": "унижение",
+            "translation": "humiliation"
+        },
+        {
+            "word": "унижать",
+            "translation": "to humiliate"
+        },
+        {
+            "word": "унижаться",
+            "translation": "to humiliate oneself"
+        },
+        {
+            "word": "шок",
+            "translation": "shock"
+        },
+        {
+            "word": "шокировать",
+            "translation": "to shock"
+        },
+        {
+            "word": "неприятность",
+            "translation": "trouble"
+        },
+        {
+            "word": "неприятный",
+            "translation": "unpleasant"
+        },
+        {
+            "word": "страх",
+            "translation": "fear"
+        },
+        {
+            "word": "страшный (мороз и т.п.)",
+            "translation": "terrible"
+        },
+        {
+            "word": "страшный (рассказ)",
+            "translation": "scary"
+        },
+        {
+            "word": "ужас",
+            "translation": "horror"
+        },
+        {
+            "word": "ужасныйv",
+            "translation": "awful"
+        },
+        {
+            "word": "задрожать",
+            "translation": "to begin to tremble"
+        },
+        {
+            "word": "плакать",
+            "translation": "to cry"
+        },
+        {
+            "word": "заплакать",
+            "translation": "to start crying"
+        },
+        {
+            "word": "слеза",
+            "translation": "tear"
+        },
+        {
+            "word": "вина (ошибка, проступок)",
+            "translation": "fault"
+        },
+        {
+            "word": "вина (чувство вины)",
+            "translation": "guilt"
+        },
+        {
+            "word": "позор",
+            "translation": "dishonour"
+        },
+        {
+            "word": "протест",
+            "translation": "protest"
+        },
+        {
+            "word": "стресс",
+            "translation": "stress"
+        },
+        {
+            "word": "беспокоить (мешать)",
+            "translation": "to disturb"
+        },
+        {
+            "word": "злиться",
+            "translation": "to be furious"
+        },
+        {
+            "word": "злой (сердитый)",
+            "translation": "angry"
+        },
+        {
+            "word": "прекращать (отношения)",
+            "translation": "to end"
+        },
+        {
+            "word": "пугаться",
+            "translation": "to be scared"
+        },
+        {
+            "word": "ударить",
+            "translation": "to hit"
+        },
+        {
+            "word": "драться (в драке)",
+            "translation": "to fight"
+        },
+        {
+            "word": "урегулировать (конфликт)",
+            "translation": "to settle"
+        },
+        {
+            "word": "недовольный",
+            "translation": "discontented"
+        },
+        {
+            "word": "яростный (взгляд)",
+            "translation": "furious"
+        },
+        {
+            "word": "Это нехорошо!",
+            "translation": "It's not good!"
+        },
+        {
+            "word": "Это плохо!",
+            "translation": "It's bad!"
+        },
+        {
+            "word": "болезнь",
+            "translation": "illness"
+        },
+        {
+            "word": "illness",
+            "translation": "to be ill"
+        },
+        {
+            "word": "здоровье",
+            "translation": "health"
+        },
+        {
+            "word": "насморк",
+            "translation": "runny nose"
+        },
+        {
+            "word": "ангина",
+            "translation": "tonsillitis"
+        },
+        {
+            "word": "простуда",
+            "translation": "cold"
+        },
+        {
+            "word": "простудиться",
+            "translation": "to catch a cold"
+        },
+        {
+            "word": "бронхит",
+            "translation": "bronchitis"
+        },
+        {
+            "word": "воспаление лёгких",
+            "translation": "pneumonia"
+        },
+        {
+            "word": "грипп",
+            "translation": "flu"
+        },
+        {
+            "word": "близорукий",
+            "translation": "short-sighted"
+        },
+        {
+            "word": "дальнозоркий",
+            "translation": "long-sighted"
+        },
+        {
+            "word": "косоглазие",
+            "translation": "squint"
+        },
+        {
+            "word": "косоглазый",
+            "translation": "squint-eyed"
+        },
+        {
+            "word": "катаракта",
+            "translation": "cataract"
+        },
+        {
+            "word": "глаукома",
+            "translation": "glaucoma"
+        },
+        {
+            "word": "инсульт",
+            "translation": "stroke"
+        },
+        {
+            "word": "инфаркт",
+            "translation": "heart attack"
+        },
+        {
+            "word": "инфаркт миокарда",
+            "translation": "myocardial infarction"
+        },
+        {
+            "word": "паралич",
+            "translation": "paralysis"
+        },
+        {
+            "word": "парализовать",
+            "translation": "to paralyse"
+        },
+        {
+            "word": "аллергия",
+            "translation": "allergy"
+        },
+        {
+            "word": "астма",
+            "translation": "asthma"
+        },
+        {
+            "word": "диабет",
+            "translation": "diabetes"
+        },
+        {
+            "word": "зубная боль",
+            "translation": "toothache"
+        },
+        {
+            "word": "кариес",
+            "translation": "caries"
+        },
+        {
+            "word": "диарея",
+            "translation": "diarrhoea"
+        },
+        {
+            "word": "запор",
+            "translation": "constipation"
+        },
+        {
+            "word": "расстройство желудка",
+            "translation": "stomach upset"
+        },
+        {
+            "word": "отравление (пищевое)",
+            "translation": "food poisoning"
+        },
+        {
+            "word": "артрит",
+            "translation": "arthritis"
+        },
+        {
+            "word": "рахит",
+            "translation": "rickets"
+        },
+        {
+            "word": "ревматизм",
+            "translation": "rheumatism"
+        },
+        {
+            "word": "атеросклероз",
+            "translation": "atherosclerosis"
+        },
+        {
+            "word": "гастрит",
+            "translation": "gastritis"
+        },
+        {
+            "word": "аппендицит",
+            "translation": "appendicitis"
+        },
+        {
+            "word": "холецистит",
+            "translation": "cholecystitis"
+        },
+        {
+            "word": "язва (внутренняя)",
+            "translation": "ulcer"
+        },
+        {
+            "word": "корь",
+            "translation": "measles"
+        },
+        {
+            "word": "краснуха",
+            "translation": "German measles"
+        },
+        {
+            "word": "желтуха",
+            "translation": "jaundice"
+        },
+        {
+            "word": "гепатит",
+            "translation": "hepatitis"
+        },
+        {
+            "word": "шизофренияvv",
+            "translation": "schizophrenia"
+        },
+        {
+            "word": "бешенство",
+            "translation": "rabies"
+        },
+        {
+            "word": "невроз",
+            "translation": "neurosis"
+        },
+        {
+            "word": "сотрясение мозга",
+            "translation": "concussion"
+        },
+        {
+            "word": "рак",
+            "translation": "cancer"
+        },
+        {
+            "word": "склероз",
+            "translation": "sclerosis"
+        },
+        {
+            "word": "рассеянный склероз",
+            "translation": "multiple sclerosis"
+        },
+        {
+            "word": "алкоголизм",
+            "translation": "alcoholism"
+        },
+        {
+            "word": "алкоголик",
+            "translation": "alcoholic"
+        },
+        {
+            "word": "сифилис",
+            "translation": "syphilis"
+        },
+        {
+            "word": "СПИД",
+            "translation": "AIDS"
+        },
+        {
+            "word": "опухоль (внутренняя)",
+            "translation": "tumour"
+        },
+        {
+            "word": "лихорадка",
+            "translation": "fever"
+        },
+        {
+            "word": "малярия",
+            "translation": "malaria"
+        },
+        {
+            "word": "гангрена",
+            "translation": "gangrene"
+        },
+        {
+            "word": "морская болезнь",
+            "translation": "seasickness"
+        },
+        {
+            "word": "эпилепсия",
+            "translation": "epilepsy"
+        },
+        {
+            "word": "эпидемия",
+            "translation": "epidemic"
+        },
+        {
+            "word": "тиф",
+            "translation": "typhus"
+        },
+        {
+            "word": "туберкулёз",
+            "translation": "tuberculosis"
+        },
+        {
+            "word": "холера",
+            "translation": "cholera"
+        },
+        {
+            "word": "чума",
+            "translation": "plague"
+        },
+        {
+            "word": "симптом",
+            "translation": "symptom"
+        },
+        {
+            "word": "температура",
+            "translation": "temperature"
+        },
+        {
+            "word": "высокая температура",
+            "translation": "fever"
+        },
+        {
+            "word": "пульс",
+            "translation": "pulse"
+        },
+        {
+            "word": "головокружение",
+            "translation": "giddiness"
+        },
+        {
+            "word": "горячий (напр. лоб)",
+            "translation": "hot"
+        },
+        {
+            "word": "озноб",
+            "translation": "shivering"
+        },
+        {
+            "word": "бледный",
+            "translation": "pale"
+        },
+        {
+            "word": "кашель",
+            "translation": "cough"
+        },
+        {
+            "word": "кашлять",
+            "translation": "to cough"
+        },
+        {
+            "word": "чихать",
+            "translation": "to sneeze"
+        },
+        {
+            "word": "обморок",
+            "translation": "faint"
+        },
+        {
+            "word": "упасть в обморок",
+            "translation": "to faint"
+        },
+        {
+            "word": "синяк",
+            "translation": "bruise"
+        },
+        {
+            "word": "шишка",
+            "translation": "bump"
+        },
+        {
+            "word": "удариться",
+            "translation": "to bruise oneself"
+        },
+        {
+            "word": "ушиб",
+            "translation": "bruise"
+        },
+        {
+            "word": "ушибиться",
+            "translation": "to get bruised"
+        },
+        {
+            "word": "хромать",
+            "translation": "to limp"
+        },
+        {
+            "word": "вывих",
+            "translation": "dislocation"
+        },
+        {
+            "word": "вывихнуть",
+            "translation": "to dislocate"
+        },
+        {
+            "word": "перелом",
+            "translation": "fracture"
+        },
+        {
+            "word": "получить перелом",
+            "translation": "to have а fracture"
+        },
+        {
+            "word": "порез",
+            "translation": "cut"
+        },
+        {
+            "word": "порезаться",
+            "translation": "to cut oneself"
+        },
+        {
+            "word": "кровотечение",
+            "translation": "bleeding"
+        },
+        {
+            "word": "ожог",
+            "translation": "burn"
+        },
+        {
+            "word": "обжечься",
+            "translation": "to burn oneself"
+        },
+        {
+            "word": "уколоть (поранить)",
+            "translation": "to prickle"
+        },
+        {
+            "word": "уколоться",
+            "translation": "to prickle oneself"
+        },
+        {
+            "word": "повредить (поранить)",
+            "translation": "to injure"
+        },
+        {
+            "word": "повреждение (рана)",
+            "translation": "injury"
+        },
+        {
+            "word": "рана",
+            "translation": "wound"
+        },
+        {
+            "word": "травма",
+            "translation": "trauma"
+        },
+        {
+            "word": "бредить (мед.)",
+            "translation": "to be delirious"
+        },
+        {
+            "word": "заикаться",
+            "translation": "to stutter"
+        },
+        {
+            "word": "солнечный удар",
+            "translation": "sunstroke"
+        },
+        {
+            "word": "боль",
+            "translation": "pain"
+        },
+        {
+            "word": "заноза",
+            "translation": "splinter"
+        },
+        {
+            "word": "пот",
+            "translation": "sweat"
+        },
+        {
+            "word": "потеть",
+            "translation": "to sweat"
+        },
+        {
+            "word": "рвота",
+            "translation": "vomiting"
+        },
+        {
+            "word": "судороги",
+            "translation": "convulsions"
+        },
+        {
+            "word": "беременная",
+            "translation": "pregnant"
+        },
+        {
+            "word": "родиться",
+            "translation": "to be born"
+        },
+        {
+            "word": "роды",
+            "translation": "delivery, labour"
+        },
+        {
+            "word": "рожать",
+            "translation": "to labour"
+        },
+        {
+            "word": "аборт",
+            "translation": "abortion"
+        },
+        {
+            "word": "дыхание",
+            "translation": "respiration"
+        },
+        {
+            "word": "вдох",
+            "translation": "inhalation"
+        },
+        {
+            "word": "выдох",
+            "translation": "exhalation"
+        },
+        {
+            "word": "выдохнуть",
+            "translation": "to breathe out"
+        },
+        {
+            "word": "сделать вдох",
+            "translation": "to breathe in"
+        },
+        {
+            "word": "инвалид",
+            "translation": "disabled person"
+        },
+        {
+            "word": "калека",
+            "translation": "cripple"
+        },
+        {
+            "word": "наркоман",
+            "translation": "drug addict"
+        },
+        {
+            "word": "глухой",
+            "translation": "deaf"
+        },
+        {
+            "word": "немой",
+            "translation": "dumb"
+        },
+        {
+            "word": "глухонемой",
+            "translation": "deaf-and-dumb"
+        },
+        {
+            "word": "сумасшедший (прил.)",
+            "translation": "mad, insane"
+        },
+        {
+            "word": "сумасшедший (сущ.)",
+            "translation": "madman"
+        },
+        {
+            "word": "сумасшедшая (сущ.)",
+            "translation": "madwoman"
+        },
+        {
+            "word": "сойти с ума",
+            "translation": "to go insane"
+        },
+        {
+            "word": "ген",
+            "translation": "gene"
+        },
+        {
+            "word": "иммунитет",
+            "translation": "immunity"
+        },
+        {
+            "word": "наследственный",
+            "translation": "hereditary"
+        },
+        {
+            "word": "врождённый",
+            "translation": "congenital"
+        },
+        {
+            "word": "вирус",
+            "translation": "virus"
+        },
+        {
+            "word": "микроб",
+            "translation": "microbe"
+        },
+        {
+            "word": "бактерия",
+            "translation": "bacterium"
+        },
+        {
+            "word": "инфекция",
+            "translation": "infection"
+        },
+        {
+            "word": "74. Симптомы болезней. Лечение - 3",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "слеза",
+            "translation": "tear"
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "слеза",
+            "translation": "tear"
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "слеза",
+            "translation": "tear"
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "слеза",
+            "translation": "tear"
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
             "word": "",
             "translation": ""
         },
@@ -8231,6 +9751,306 @@
         {
             "word": "",
             "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "слеза",
+            "translation": "tear"
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "слеза",
+            "translation": "tear"
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "слеза",
+            "translation": "tear"
         },
         {
             "word": "",
