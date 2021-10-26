@@ -11353,6 +11353,1014 @@
             "translation": "drawer"
         },
         {
+            "word": "постельное бельё",
+            "translation": "bedclothes"
+        },
+        {
+            "word": "подушка",
+            "translation": "pillow"
+        },
+        {
+            "word": "наволочка",
+            "translation": "pillowslip"
+        },
+        {
+            "word": "одеяло",
+            "translation": "blanket"
+        },
+        {
+            "word": "простыня",
+            "translation": "sheet"
+        },
+        {
+            "word": "покрывало",
+            "translation": "bedspread"
+        },
+        {
+            "word": "кухня (помещение)",
+            "translation": "kitchen"
+        },
+        {
+            "word": "газ",
+            "translation": "gas"
+        },
+        {
+            "word": "плита газовая",
+            "translation": "gas cooker"
+        },
+        {
+            "word": "плита электрическая",
+            "translation": "electric cooker"
+        },
+        {
+            "word": "духовка",
+            "translation": "oven"
+        },
+        {
+            "word": "микроволновая печь",
+            "translation": "microwave oven"
+        },
+        {
+            "word": "холодильник",
+            "translation": "refrigerator"
+        },
+        {
+            "word": "морозильник",
+            "translation": "freezer"
+        },
+        {
+            "word": "посудомоечная машина",
+            "translation": "dishwasher"
+        },
+        {
+            "word": "мясорубка",
+            "translation": "mincer"
+        },
+        {
+            "word": "соковыжималка",
+            "translation": "juicer"
+        },
+        {
+            "word": "тостер",
+            "translation": "toaster"
+        },
+        {
+            "word": "миксер",
+            "translation": "mixer"
+        },
+        {
+            "word": "кофеварка",
+            "translation": "coffee maker"
+        },
+        {
+            "word": "кофейник",
+            "translation": "coffee pot"
+        },
+        {
+            "word": "кофемолка",
+            "translation": "coffee grinder"
+        },
+        {
+            "word": "чайник (для кипятка)",
+            "translation": "kettle"
+        },
+        {
+            "word": "чайник (для заварки)",
+            "translation": "teapot"
+        },
+        {
+            "word": "крышка (чайника и т.п.)",
+            "translation": "lid"
+        },
+        {
+            "word": "ситечко (для чая)",
+            "translation": "tea strainer"
+        },
+        {
+            "word": "ложка",
+            "translation": "spoon"
+        },
+        {
+            "word": "чайная ложка",
+            "translation": "teaspoon"
+        },
+        {
+            "word": "столовая ложка",
+            "translation": "tablespoon"
+        },
+        {
+            "word": "вилка",
+            "translation": "fork"
+        },
+        {
+            "word": "нож",
+            "translation": "knife"
+        },
+        {
+            "word": "посуда",
+            "translation": "tableware"
+        },
+        {
+            "word": "тарелка",
+            "translation": "plate"
+        },
+        {
+            "word": "блюдце",
+            "translation": "saucer"
+        },
+        {
+            "word": "рюмка (стопка)",
+            "translation": "shot glass"
+        },
+        {
+            "word": "стакан",
+            "translation": "glass"
+        },
+        {
+            "word": "чашка",
+            "translation": "cup"
+        },
+        {
+            "word": "сахарница",
+            "translation": "sugar bowl"
+        },
+        {
+            "word": "солонка",
+            "translation": "salt shaker"
+        },
+        {
+            "word": "перечница",
+            "translation": "pepper shaker"
+        },
+        {
+            "word": "маслёнка",
+            "translation": "butter dish"
+        },
+        {
+            "word": "кастрюля",
+            "translation": "stew pot"
+        },
+        {
+            "word": "сковородка",
+            "translation": "frying pan"
+        },
+        {
+            "word": "половник",
+            "translation": "ladle"
+        },
+        {
+            "word": "дуршлаг",
+            "translation": "colander"
+        },
+        {
+            "word": "поднос",
+            "translation": "tray"
+        },
+        {
+            "word": "бутылка",
+            "translation": "bottle"
+        },
+        {
+            "word": "банка (стеклянная)",
+            "translation": "jar"
+        },
+        {
+            "word": "банка (жестяная)",
+            "translation": "tin"
+        },
+        {
+            "word": "открывалка (для бутылок)",
+            "translation": "bottle opener"
+        },
+        {
+            "word": "открывалка (для консервов)",
+            "translation": "tin opener"
+        },
+        {
+            "word": "штопор",
+            "translation": "corkscrew"
+        },
+        {
+            "word": "фильтр",
+            "translation": "filter"
+        },
+        {
+            "word": "фильтровать",
+            "translation": "to filter"
+        },
+        {
+            "word": "мусор (отходы)",
+            "translation": "rubbish"
+        },
+        {
+            "word": "мусорное ведро",
+            "translation": "rubbish bin"
+        },
+        {
+            "word": "ванная комната",
+            "translation": "bathroom"
+        },
+        {
+            "word": "вода",
+            "translation": "water"
+        },
+        {
+            "word": "кран",
+            "translation": "tap"
+        },
+        {
+            "word": "горячая вода",
+            "translation": "hot water"
+        },
+        {
+            "word": "холодная вода",
+            "translation": "cold water"
+        },
+        {
+            "word": "зубная паста",
+            "translation": "toothpaste"
+        },
+        {
+            "word": "чистить зубы",
+            "translation": "to clean one's teeth"
+        },
+        {
+            "word": "бриться",
+            "translation": "to shave"
+        },
+        {
+            "word": "пена для бритья",
+            "translation": "shaving foam"
+        },
+        {
+            "word": "бритва",
+            "translation": "razor"
+        },
+        {
+            "word": "мыть",
+            "translation": "to wash"
+        },
+        {
+            "word": "мыться",
+            "translation": "to have a bath"
+        },
+        {
+            "word": "душ",
+            "translation": "shower"
+        },
+        {
+            "word": "принимать душ",
+            "translation": "to have a shower"
+        },
+        {
+            "word": "ванна",
+            "translation": "bath"
+        },
+        {
+            "word": "унитаз",
+            "translation": "toilet"
+        },
+        {
+            "word": "раковина",
+            "translation": "sink, washbasin"
+        },
+        {
+            "word": "мыло",
+            "translation": "soap"
+        },
+        {
+            "word": "мыльница",
+            "translation": "soap dish"
+        },
+        {
+            "word": "губка",
+            "translation": "sponge"
+        },
+        {
+            "word": "шампунь",
+            "translation": "shampoo"
+        },
+        {
+            "word": "полотенце",
+            "translation": "towel"
+        },
+        {
+            "word": "халат (махровый)",
+            "translation": "bathrobe"
+        },
+        {
+            "word": "стирка",
+            "translation": "laundry"
+        },
+        {
+            "word": "стиральная машина",
+            "translation": "washing machine"
+        },
+        {
+            "word": "стирать бельё",
+            "translation": "to do the laundry"
+        },
+        {
+            "word": "стиральный порошок",
+            "translation": "washing powder"
+        },
+        {
+            "word": "телевизор",
+            "translation": "TV, telly"
+        },
+        {
+            "word": "магнитофон",
+            "translation": "tape recorder"
+        },
+        {
+            "word": "видеомагнитофон",
+            "translation": "video"
+        },
+        {
+            "word": "приёмник",
+            "translation": "radio"
+        },
+        {
+            "word": "плеер",
+            "translation": "player"
+        },
+        {
+            "word": "видеопроектор",
+            "translation": "video projector"
+        },
+        {
+            "word": "домашний кинотеатр",
+            "translation": "home cinema"
+        },
+        {
+            "word": "проигрыватель DVD",
+            "translation": "DVD player"
+        },
+        {
+            "word": "усилитель",
+            "translation": "amplifier"
+        },
+        {
+            "word": "игровая приставка",
+            "translation": "video game console"
+        },
+        {
+            "word": "видеокамера",
+            "translation": "video camera"
+        },
+        {
+            "word": "фотоаппарат",
+            "translation": "camera"
+        },
+        {
+            "word": "цифровой фотоаппарат",
+            "translation": "digital camera"
+        },
+        {
+            "word": "пылесос",
+            "translation": "vacuum cleaner"
+        },
+        {
+            "word": "утюг",
+            "translation": "iron"
+        },
+        {
+            "word": "гладильная доска",
+            "translation": "ironing board"
+        },
+        {
+            "word": "телефон",
+            "translation": "telephone"
+        },
+        {
+            "word": "мобильный телефон",
+            "translation": "mobile phone"
+        },
+        {
+            "word": "машинка (пишущая)",
+            "translation": "typewriter"
+        },
+        {
+            "word": "машинка (швейная)",
+            "translation": "sewing machine"
+        },
+        {
+            "word": "микрофон",
+            "translation": "microphone"
+        },
+        {
+            "word": "наушники",
+            "translation": "headphones"
+        },
+        {
+            "word": "пульт",
+            "translation": "remote control"
+        },
+        {
+            "word": "компакт-диск",
+            "translation": "CD, compact disc"
+        },
+        {
+            "word": "кассета",
+            "translation": "cassette"
+        },
+        {
+            "word": "пластинка (муз.)",
+            "translation": "vinyl record"
+        },
+        {
+            "word": "ремонт",
+            "translation": "renovations"
+        },
+        {
+            "word": "делать ремонт",
+            "translation": "to renovate"
+        },
+        {
+            "word": "ремонтировать",
+            "translation": "to repair"
+        },
+        {
+            "word": "приводить в порядок",
+            "translation": "to put in order"
+        },
+        {
+            "word": "переделывать",
+            "translation": "to redo"
+        },
+        {
+            "word": "краска",
+            "translation": "paint"
+        },
+        {
+            "word": "красить",
+            "translation": "to paint"
+        },
+        {
+            "word": "маляр",
+            "translation": "house painter"
+        },
+        {
+            "word": "кисть",
+            "translation": "brush"
+        },
+        {
+            "word": "побелка (материал)",
+            "translation": "whitewash"
+        },
+        {
+            "word": "белить",
+            "translation": "to whitewash"
+        },
+        {
+            "word": "обои",
+            "translation": "wallpaper"
+        },
+        {
+            "word": "оклеить обоями",
+            "translation": "to put up wallpaper"
+        },
+        {
+            "word": "лак (для пола и т.п.)",
+            "translation": "varnish"
+        },
+        {
+            "word": "покрывать лаком",
+            "translation": "to varnish"
+        },
+        {
+            "word": "вода",
+            "translation": "water"
+        },
+        {
+            "word": "горячая вода",
+            "translation": "hot water"
+        },
+        {
+            "word": "холодная вода",
+            "translation": "cold water"
+        },
+        {
+            "word": "кран",
+            "translation": "tap"
+        },
+        {
+            "word": "капля",
+            "translation": "drop"
+        },
+        {
+            "word": "капать",
+            "translation": "to drip"
+        },
+        {
+            "word": "течь (протекать)",
+            "translation": "to leak"
+        },
+        {
+            "word": "течь (утечка)",
+            "translation": "leak"
+        },
+        {
+            "word": "лужа (на полу и т.п.)",
+            "translation": "puddle"
+        },
+        {
+            "word": "труба",
+            "translation": "pipe"
+        },
+        {
+            "word": "вентиль",
+            "translation": "valve"
+        },
+        {
+            "word": "засориться (о трубе)",
+            "translation": "to be clogged up"
+        },
+        {
+            "word": "инструменты",
+            "translation": "tools"
+        },
+        {
+            "word": "разводной ключ",
+            "translation": "adjustable spanner"
+        },
+        {
+            "word": "открутить",
+            "translation": "to unscrew"
+        },
+        {
+            "word": "закрутить",
+            "translation": "to screw"
+        },
+        {
+            "word": "прочищать",
+            "translation": "to unclog"
+        },
+        {
+            "word": "сантехник",
+            "translation": "plumber"
+        },
+        {
+            "word": "подвал",
+            "translation": "basement"
+        },
+        {
+            "word": "канализация",
+            "translation": "sewerage"
+        },
+        {
+            "word": "огонь",
+            "translation": "fire"
+        },
+        {
+            "word": "пламя",
+            "translation": "flame"
+        },
+        {
+            "word": "искра",
+            "translation": "spark"
+        },
+        {
+            "word": "дым",
+            "translation": "smoke"
+        },
+        {
+            "word": "факел",
+            "translation": "torch"
+        },
+        {
+            "word": "костёр",
+            "translation": "campfire"
+        },
+        {
+            "word": "бензин",
+            "translation": "petrol"
+        },
+        {
+            "word": "керосин",
+            "translation": "paraffin"
+        },
+        {
+            "word": "горючий",
+            "translation": "flammable"
+        },
+        {
+            "word": "взрывоопасный",
+            "translation": "explosive"
+        },
+        {
+            "word": "НЕ КУРИТЬ!",
+            "translation": "NO SMOKING"
+        },
+        {
+            "word": "безопасность",
+            "translation": "safety"
+        },
+        {
+            "word": "опасность",
+            "translation": "danger"
+        },
+        {
+            "word": "опасный",
+            "translation": "dangerous"
+        },
+        {
+            "word": "загореться",
+            "translation": "to catch fire"
+        },
+        {
+            "word": "взрыв",
+            "translation": "explosion"
+        },
+        {
+            "word": "поджечь",
+            "translation": "to set fire"
+        },
+        {
+            "word": "поджигатель",
+            "translation": "arsonist"
+        },
+        {
+            "word": "поджог",
+            "translation": "arson"
+        },
+        {
+            "word": "пылать",
+            "translation": "to blaze"
+        },
+        {
+            "word": "гореть",
+            "translation": "to burn"
+        },
+        {
+            "word": "сгореть",
+            "translation": "to burn down"
+        },
+        {
+            "word": "вызвать пожарных",
+            "translation": "to call the fire brigade"
+        },
+        {
+            "word": "пожарный",
+            "translation": "firefighter"
+        },
+        {
+            "word": "пожарная машина",
+            "translation": "fire engine"
+        },
+        {
+            "word": "пожарная команда",
+            "translation": "fire brigade"
+        },
+        {
+            "word": "выдвижная лестница",
+            "translation": "fire engine ladder"
+        },
+        {
+            "word": "шланг",
+            "translation": "fire hose"
+        },
+        {
+            "word": "огнетушитель",
+            "translation": "fire extinguisher"
+        },
+        {
+            "word": "каска",
+            "translation": "helmet"
+        },
+        {
+            "word": "сирена",
+            "translation": "siren"
+        },
+        {
+            "word": "кричать",
+            "translation": "to call out"
+        },
+        {
+            "word": "звать на помощь",
+            "translation": "to call for help"
+        },
+        {
+            "word": "спасатель",
+            "translation": "rescuer"
+        },
+        {
+            "word": "спасать",
+            "translation": "to rescue"
+        },
+        {
+            "word": "приехать",
+            "translation": "to arrive"
+        },
+        {
+            "word": "тушить",
+            "translation": "to extinguish"
+        },
+        {
+            "word": "вода",
+            "translation": "water"
+        },
+        {
+            "word": "песок",
+            "translation": "sand"
+        },
+        {
+            "word": "руины",
+            "translation": "ruins"
+        },
+        {
+            "word": "рухнуть",
+            "translation": "to collapse"
+        },
+        {
+            "word": "обвалиться",
+            "translation": "to fall down"
+        },
+        {
+            "word": "обрушиться",
+            "translation": "to cave in"
+        },
+        {
+            "word": "обломок",
+            "translation": "fragment"
+        },
+        {
+            "word": "пепел",
+            "translation": "ash"
+        },
+        {
+            "word": "задохнуться",
+            "translation": "to suffocate"
+        },
+        {
+            "word": "погибнуть",
+            "translation": "to be killed"
+        },
+        {
+            "word": "офис",
+            "translation": "office"
+        },
+        {
+            "word": "кабинет (на работе)",
+            "translation": "office"
+        },
+        {
+            "word": "секретарь",
+            "translation": "secretary"
+        },
+        {
+            "word": "директор",
+            "translation": "director"
+        },
+        {
+            "word": "менеджер",
+            "translation": "manager"
+        },
+        {
+            "word": "бухгалтер",
+            "translation": "accountant"
+        },
+        {
+            "word": "сотрудник",
+            "translation": "employee"
+        },
+        {
+            "word": "мебель",
+            "translation": "furniture"
+        },
+        {
+            "word": "стол",
+            "translation": "desk"
+        },
+        {
+            "word": "кресло",
+            "translation": "desk chair"
+        },
+        {
+            "word": "тумбочка",
+            "translation": "chest of drawers"
+        },
+        {
+            "word": "вешалка (стойка)",
+            "translation": "coat stand"
+        },
+        {
+            "word": "компьютер",
+            "translation": "computer"
+        },
+        {
+            "word": "принтер",
+            "translation": "printer"
+        },
+        {
+            "word": "факс",
+            "translation": "fax machine"
+        },
+        {
+            "word": "копировальный аппарат",
+            "translation": "photocopier"
+        },
+        {
+            "word": "бумага",
+            "translation": "paper"
+        },
+        {
+            "word": "канцтовары",
+            "translation": "office supplies"
+        },
+        {
+            "word": "коврик для мыши",
+            "translation": "mouse mat"
+        },
+        {
+            "word": "лист (бумаги и т.п.)",
+            "translation": "sheet of paper"
+        },
+        {
+            "word": "каталог",
+            "translation": "catalogue"
+        },
+        {
+            "word": "справочник",
+            "translation": "directory"
+        },
+        {
+            "word": "документация",
+            "translation": "documentation"
+        },
+        {
+            "word": "брошюра",
+            "translation": "brochure"
+        },
+        {
+            "word": "листовка",
+            "translation": "leaflet"
+        },
+        {
+            "word": "образец",
+            "translation": "sample"
+        },
+        {
+            "word": "тренинг",
+            "translation": "training meeting"
+        },
+        {
+            "word": "совещание",
+            "translation": "meeting"
+        },
+        {
+            "word": "перерыв на обед",
+            "translation": "lunch time"
+        },
+        {
+            "word": "делать копию",
+            "translation": "to make a copy"
+        },
+        {
+            "word": "размножить",
+            "translation": "to make copies"
+        },
+        {
+            "word": "получать факс",
+            "translation": "to receive a fax"
+        },
+        {
+            "word": "отправлять факс",
+            "translation": "to send a fax"
+        },
+        {
+            "word": "позвонить",
+            "translation": "to ring"
+        },
+        {
+            "word": "ответить",
+            "translation": "to answer"
+        },
+        {
+            "word": "соединить (по телефону)",
+            "translation": "to put through"
+        },
+        {
+            "word": "назначать (встречу)",
+            "translation": "to arrange"
+        },
+        {
+            "word": "демонстрировать",
+            "translation": "to demonstrate"
+        },
+        {
+            "word": "отсутствовать",
+            "translation": "to be absent"
+        },
+        {
+            "word": "пропуск (отсутствие)",
+            "translation": "absence"
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
             "word": "",
             "translation": ""
         },
