@@ -1,0 +1,1164 @@
+{
+    "list": [
+        {
+            "word": "я",
+            "translation": "ich"
+        },
+        {
+            "word": "ты",
+            "translation": "du"
+        },
+        {
+            "word": "он",
+            "translation": "erzzz"
+        },
+        {
+            "word": "онаv",
+            "translation": "sie"
+        },
+        {
+            "word": "оно",
+            "translation": "es"
+        },
+        {
+            "word": "мы",
+            "translation": "wir"
+        },
+        {
+            "word": "вы",
+            "translation": "ihr"
+        },
+        {
+            "word": "Вы (вежл. форма, ед.)",
+            "translation": "Sie"
+        },
+        {
+            "word": "Вы (вежл. форма, мн.)",
+            "translation": "Sie"
+        },
+        {
+            "word": "они",
+            "translation": "sie"
+        },
+        {
+            "word": "Здравствуй!",
+            "translation": "Hallo!"
+        },
+        {
+            "word": "Здравствуйте!",
+            "translation": "Hallo!"
+        },
+        {
+            "word": "Доброе утро!",
+            "translation": "Guten Morgen!"
+        },
+        {
+            "word": "Добрый день!",
+            "translation": "Guten Tag!"
+        },
+        {
+            "word": "Добрый вечер!",
+            "translation": "Guten Abend!"
+        },
+        {
+            "word": "здороваться",
+            "translation": "grüßen (vi, vt)"
+        },
+        {
+            "word": "Привет!",
+            "translation": "Hallo!"
+        },
+        {
+            "word": "привет, приветствие",
+            "translation": "Gruß (m)"
+        },
+        {
+            "word": "приветствовать",
+            "translation": "begrüßen (vt)"
+        },
+        {
+            "word": "Как дела?",
+            "translation": "Wie geht's?"
+        },
+        {
+            "word": "Что нового?",
+            "translation": "Was gibt es Neues?"
+        },
+        {
+            "word": "До свидания!",
+            "translation": "Auf Wiedersehen!"
+        },
+        {
+            "word": "До скорой встречи!",
+            "translation": "Bis bald!"
+        },
+        {
+            "word": "Прощай!",
+            "translation": "Lebe wohl!"
+        },
+        {
+            "word": "Прощайте!",
+            "translation": "Leben Sie wohl!"
+        },
+        {
+            "word": "прощаться",
+            "translation": "sich verabschieden"
+        },
+        {
+            "word": "Пока!",
+            "translation": "Tschüs!"
+        },
+        {
+            "word": "Спасибо!",
+            "translation": "Danke!"
+        },
+        {
+            "word": "Большое спасибо!",
+            "translation": "Dankeschön!"
+        },
+        {
+            "word": "Пожалуйста (ответ)",
+            "translation": "Bitte!"
+        },
+        {
+            "word": "Не стоит благодарности",
+            "translation": "Keine Ursache!"
+        },
+        {
+            "word": "Не за что",
+            "translation": "Nichts zu danken!"
+        },
+        {
+            "word": "Извини!",
+            "translation": "Entschuldige!"
+        },
+        {
+            "word": "Извините!",
+            "translation": "Entschuldigung!"
+        },
+        {
+            "word": "извинять",
+            "translation": "entschuldigen (vt)"
+        },
+        {
+            "word": "извиняться",
+            "translation": "sich entschuldigen"
+        },
+        {
+            "word": "Мои извинения.",
+            "translation": "Verzeihung!"
+        },
+        {
+            "word": "Простите!",
+            "translation": "Entschuldigung!"
+        },
+        {
+            "word": "прощать (кого-л.)",
+            "translation": "verzeihen (vt)"
+        },
+        {
+            "word": "Ничего страшного (ответ)",
+            "translation": "Das macht nichts!"
+        },
+        {
+            "word": "пожалуйста (при просьбе)",
+            "translation": "bitte"
+        },
+        {
+            "word": "Не забудьте!",
+            "translation": "Nicht vergessen!"
+        },
+        {
+            "word": "Конечно!",
+            "translation": "Natürlich!"
+        },
+        {
+            "word": "Конечно нет!",
+            "translation": "Natürlich nicht!"
+        },
+        {
+            "word": "Согласен!",
+            "translation": "Gut! Okay!"
+        },
+        {
+            "word": "Хватит!",
+            "translation": "Es ist genug!"
+        },
+        {
+            "word": "господин",
+            "translation": "Herr"
+        },
+        {
+            "word": "госпожа",
+            "translation": "Frau"
+        },
+        {
+            "word": "девушка",
+            "translation": "Frau"
+        },
+        {
+            "word": "молодой человек",
+            "translation": "Junger Mann"
+        },
+        {
+            "word": "мальчик",
+            "translation": "Junge"
+        },
+        {
+            "word": "девочка",
+            "translation": "Mädchen"
+        },
+        {
+            "word": "0 ноль",
+            "translation": "null"
+        },
+        {
+            "word": "1 один",
+            "translation": "eins"
+        },
+        {
+            "word": "2 два",
+            "translation": "zwei"
+        },
+        {
+            "word": "3 три",
+            "translation": "drei"
+        },
+        {
+            "word": "4 четыре",
+            "translation": "vier"
+        },
+        {
+            "word": "5 пять",
+            "translation": "fünf"
+        },
+        {
+            "word": "6 шесть",
+            "translation": "sechs"
+        },
+        {
+            "word": "7 семь",
+            "translation": "sieben"
+        },
+        {
+            "word": "8 восемь",
+            "translation": "acht"
+        },
+        {
+            "word": "9 девять",
+            "translation": "neun"
+        },
+        {
+            "word": "10 десять",
+            "translation": "zehn"
+        },
+        {
+            "word": "11 одиннадцать",
+            "translation": "elf"
+        },
+        {
+            "word": "12 двенадцать",
+            "translation": "zwölf"
+        },
+        {
+            "word": "13 тринадцать",
+            "translation": "dreizehn"
+        },
+        {
+            "word": "14 четырнадцать",
+            "translation": "vierzehn"
+        },
+        {
+            "word": "15 пятнадцать",
+            "translation": "fünfzehn"
+        },
+        {
+            "word": "16 шестнадцать",
+            "translation": "sechzehn"
+        },
+        {
+            "word": "17 семнадцать",
+            "translation": "siebzehn"
+        },
+        {
+            "word": "18 восемнадцать",
+            "translation": "achtzehn"
+        },
+        {
+            "word": "19 девятнадцать",
+            "translation": "neunzehn"
+        },
+        {
+            "word": "20 двадцать",
+            "translation": "zwanzig"
+        },
+        {
+            "word": "21 двадцать один",
+            "translation": "einundzwanzig"
+        },
+        {
+            "word": "22 двадцать два",
+            "translation": "zweiundzwanzig"
+        },
+        {
+            "word": "23 двадцать три",
+            "translation": "dreiundzwanzig"
+        },
+        {
+            "word": "30 тридцать",
+            "translation": "dreißig"
+        },
+        {
+            "word": "31 тридцать один",
+            "translation": "einunddreißig"
+        },
+        {
+            "word": "32 тридцать два",
+            "translation": "zweiunddreißig"
+        },
+        {
+            "word": "33 тридцать три",
+            "translation": "dreiunddreißig"
+        },
+        {
+            "word": "40 сорок",
+            "translation": "vierzig"
+        },
+        {
+            "word": "41 сорок один",
+            "translation": "einundvierzig"
+        },
+        {
+            "word": "42 сорок два",
+            "translation": "zweiundvierzig"
+        },
+        {
+            "word": "43 сорок три",
+            "translation": "dreiundvierzig"
+        },
+        {
+            "word": "50 пятьдесят",
+            "translation": "fünfzig"
+        },
+        {
+            "word": "51 пятьдесят один",
+            "translation": "einundfünfzig"
+        },
+        {
+            "word": "52 пятьдесят два",
+            "translation": "zweiundfünfzig"
+        },
+        {
+            "word": "53 пятьдесят три",
+            "translation": "dreiundfünfzig"
+        },
+        {
+            "word": "60 шестьдесят",
+            "translation": "sechzig"
+        },
+        {
+            "word": "61 шестьдесят один",
+            "translation": "einundsechzig"
+        },
+        {
+            "word": "62 шестьдесят два",
+            "translation": "zweiundsechzig"
+        },
+        {
+            "word": "63 шестьдесят три",
+            "translation": "dreiundsechzig"
+        },
+        {
+            "word": "70 семьдесят",
+            "translation": "siebzig"
+        },
+        {
+            "word": "71 семьдесят один",
+            "translation": "einundsiebzig"
+        },
+        {
+            "word": "72 семьдесят два",
+            "translation": "zweiundsiebzig"
+        },
+        {
+            "word": "73 семьдесят три",
+            "translation": "dreiundsiebzig"
+        },
+        {
+            "word": "80 восемьдесят",
+            "translation": "achtzig"
+        },
+        {
+            "word": "81 восемьдесят один",
+            "translation": "einundachtzig"
+        },
+        {
+            "word": "82 восемьдесят два",
+            "translation": "zweiundachtzig"
+        },
+        {
+            "word": "83 восемьдесят три",
+            "translation": "dreiundachtzig"
+        },
+        {
+            "word": "90 девяносто",
+            "translation": "neunzig"
+        },
+        {
+            "word": "91 девяносто один",
+            "translation": "einundneunzig"
+        },
+        {
+            "word": "92 девяносто два",
+            "translation": "zweiundneunzig"
+        },
+        {
+            "word": "93 девяносто три",
+            "translation": "dreiundneunzig"
+        },
+        {
+            "word": "100 сто",
+            "translation": "einhundert"
+        },
+        {
+            "word": "200 двести",
+            "translation": "zweihundert"
+        },
+        {
+            "word": "300 триста",
+            "translation": "dreihundert"
+        },
+        {
+            "word": "400 четыреста",
+            "translation": "vierhundert"
+        },
+        {
+            "word": "500 пятьсот",
+            "translation": "fünfhundert"
+        },
+        {
+            "word": "600 шестьсот",
+            "translation": "sechshundert"
+        },
+        {
+            "word": "700 семьсот",
+            "translation": "siebenhundert"
+        },
+        {
+            "word": "800 восемьсот",
+            "translation": "achthundert"
+        },
+        {
+            "word": "900 девятьсот",
+            "translation": "neunhundert"
+        },
+        {
+            "word": "1000 тысяча",
+            "translation": "eintausend"
+        },
+        {
+            "word": "2000 две тысячи",
+            "translation": "zweitausend"
+        },
+        {
+            "word": "3000 три тысячи",
+            "translation": "dreitausend"
+        },
+        {
+            "word": "10000 десять тысяч",
+            "translation": "zehntausend"
+        },
+        {
+            "word": "100000 сто тысяч",
+            "translation": "hunderttausend"
+        },
+        {
+            "word": "миллион",
+            "translation": "Million (f)"
+        },
+        {
+            "word": "миллиард",
+            "translation": "Milliarde (f)"
+        },
+        {
+            "word": "первый",
+            "translation": "der erste"
+        },
+        {
+            "word": "второй",
+            "translation": "der zweite"
+        },
+        {
+            "word": "третий",
+            "translation": "der dritte"
+        },
+        {
+            "word": "четвёртый",
+            "translation": "der vierte"
+        },
+        {
+            "word": "пятый",
+            "translation": "der fünfte"
+        },
+        {
+            "word": "шестой",
+            "translation": "der sechste"
+        },
+        {
+            "word": "седьмой",
+            "translation": "der siebte"
+        },
+        {
+            "word": "восьмой",
+            "translation": "der achte"
+        },
+        {
+            "word": "девятый",
+            "translation": "der neunte"
+        },
+        {
+            "word": "десятый",
+            "translation": "der zehnte"
+        },
+        {
+            "word": "дробь",
+            "translation": "Bruch (m)"
+        },
+        {
+            "word": "одна вторая",
+            "translation": "Hälfte (f)"
+        },
+        {
+            "word": "одна третья",
+            "translation": "Drittel (n)"
+        },
+        {
+            "word": "одна четвертая",
+            "translation": "Viertel (n)"
+        },
+        {
+            "word": "одна восьмая",
+            "translation": "Achtel (n)"
+        },
+        {
+            "word": "одна десятая",
+            "translation": "Zehntel (n)"
+        },
+        {
+            "word": "две третьих",
+            "translation": "zwei Drittel"
+        },
+        {
+            "word": "три четвёртых",
+            "translation": "drei Viertel"
+        },
+        {
+            "word": "вычитание",
+            "translation": "Subtraktion (f)"
+        },
+        {
+            "word": "вычитать",
+            "translation": "subtrahieren (vt)"
+        },
+        {
+            "word": "деление",
+            "translation": "Division (f)"
+        },
+        {
+            "word": "делить",
+            "translation": "dividieren (vt)"
+        },
+        {
+            "word": "сложение",
+            "translation": "Addition (f)"
+        },
+        {
+            "word": "сложить (матем.)",
+            "translation": "addieren (vt)"
+        },
+        {
+            "word": "прибавлять",
+            "translation": "hinzufügen (vt)"
+        },
+        {
+            "word": "умножение",
+            "translation": "Multiplikation (f)"
+        },
+        {
+            "word": "умножать",
+            "translation": "multiplizieren (vt)"
+        },
+        {
+            "word": "цифра",
+            "translation": "Ziffer (f)"
+        },
+        {
+            "word": "число",
+            "translation": "Zahl (f)"
+        },
+        {
+            "word": "числительное",
+            "translation": "Zahlwort (n)"
+        },
+        {
+            "word": "минус",
+            "translation": "Minus (n)"
+        },
+        {
+            "word": "плюс",
+            "translation": "Plus (n)"
+        },
+        {
+            "word": "формула",
+            "translation": "Formel (f)"
+        },
+        {
+            "word": "вычисление",
+            "translation": "Berechnung (f)"
+        },
+        {
+            "word": "считать",
+            "translation": "zählen (vt)"
+        },
+        {
+            "word": "подсчитывать",
+            "translation": "berechnen (vt)"
+        },
+        {
+            "word": "сравнивать",
+            "translation": "vergleichen (vt)"
+        },
+        {
+            "word": "Сколько? (неисчисл.)",
+            "translation": "Wie viel?"
+        },
+        {
+            "word": "Сколько? (исчисл.)",
+            "translation": "Wie viele?"
+        },
+        {
+            "word": "сумма",
+            "translation": "Summe (f)"
+        },
+        {
+            "word": "результат",
+            "translation": "Ergebnis (n)"
+        },
+        {
+            "word": "остаток",
+            "translation": "Rest (m)"
+        },
+        {
+            "word": "несколько",
+            "translation": "einige"
+        },
+        {
+            "word": "немного",
+            "translation": "wenig ...vv"
+        },
+        {
+            "word": "остальное",
+            "translation": "Übrige (n)"
+        },
+        {
+            "word": "полтора",
+            "translation": "anderthalb"
+        },
+        {
+            "word": "дюжина",
+            "translation": "Dutzend (n)"
+        },
+        {
+            "word": "пополам (на 2 части)",
+            "translation": "entzwei"
+        },
+        {
+            "word": "поровну",
+            "translation": "zu gleichen Teilen"
+        },
+        {
+            "word": "половина",
+            "translation": "Hälfte (f)"
+        },
+        {
+            "word": "раз",
+            "translation": "Mal (n)"
+        },
+        {
+            "word": "бежать",
+            "translation": "laufen (vi)"
+        },
+        {
+            "word": "бояться",
+            "translation": "Angst haben"
+        },
+        {
+            "word": "брать",
+            "translation": "nehmen (vt)"
+        },
+        {
+            "word": "быть",
+            "translation": "sein (vi)"
+        },
+        {
+            "word": "видеть",
+            "translation": "sehen (vi, vt)"
+        },
+        {
+            "word": "владеть",
+            "translation": "besitzen (vt)"
+        },
+        {
+            "word": "возражать",
+            "translation": "einwenden (vt)"
+        },
+        {
+            "word": "входить (в комнату и т.п.)",
+            "translation": "hereinkommen (vi)"
+        },
+        {
+            "word": "выбирать",
+            "translation": "wählen (vt)"
+        },
+        {
+            "word": "выходить (из дома)",
+            "translation": "ausgehen (vi)"
+        },
+        {
+            "word": "говорить (разговаривать)",
+            "translation": "sprechen (vi)"
+        },
+        {
+            "word": "готовить (обед)",
+            "translation": "zubereiten (vt)"
+        },
+        {
+            "word": "давать",
+            "translation": "geben (vt)"
+        },
+        {
+            "word": "делать",
+            "translation": "machen (vt)"
+        },
+        {
+            "word": "доверять",
+            "translation": "vertrauen (vi)"
+        },
+        {
+            "word": "думать",
+            "translation": "denken (vi, vt)"
+        },
+        {
+            "word": "жаловаться",
+            "translation": "klagen (vi)"
+        },
+        {
+            "word": "ждать",
+            "translation": "warten (vi)"
+        },
+        {
+            "word": "забывать",
+            "translation": "vergessen (vt)"
+        },
+        {
+            "word": "завтракать",
+            "translation": "frühstücken (vi)"
+        },
+        {
+            "word": "заказывать",
+            "translation": "bestellen (vt)"
+        },
+        {
+            "word": "заканчивать",
+            "translation": "beenden (vt)"
+        },
+        {
+            "word": "замечать (увидеть)",
+            "translation": "bemerken (vt)"
+        },
+        {
+            "word": "записывать",
+            "translation": "aufschreiben (vt)"
+        },
+        {
+            "word": "защищать (страну)",
+            "translation": "verteidigen (vt)"
+        },
+        {
+            "word": "звать (на помощь и т.п.)",
+            "translation": "rufen (vi)"
+        },
+        {
+            "word": "знать (кого-л.)",
+            "translation": "kennen (vt)"
+        },
+        {
+            "word": "знать (что-л.)",
+            "translation": "wissen (vt)"
+        },
+        {
+            "word": "играть",
+            "translation": "spielen (vi, vt)"
+        },
+        {
+            "word": "идти",
+            "translation": "gehen (vi)"
+        },
+        {
+            "word": "извиняться",
+            "translation": "sich entschuldigen"
+        },
+        {
+            "word": "изменить (поменять)",
+            "translation": "ändern (vt)"
+        },
+        {
+            "word": "изучать",
+            "translation": "lernen (vt)"
+        },
+        {
+            "word": "иметь",
+            "translation": "haben (vt)"
+        },
+        {
+            "word": "интересоваться",
+            "translation": "sich interessieren"
+        },
+        {
+            "word": "информировать",
+            "translation": "informieren (vt)"
+        },
+        {
+            "word": "искать ...",
+            "translation": "suchen (vt)"
+        },
+        {
+            "word": "контролировать",
+            "translation": "kontrollieren (vt)"
+        },
+        {
+            "word": "красть",
+            "translation": "stehlen (vt)"
+        },
+        {
+            "word": "кричать",
+            "translation": "schreien (vi)"
+        },
+        {
+            "word": "купаться (в море и т.п.)",
+            "translation": "schwimmen gehen"
+        },
+        {
+            "word": "лететь",
+            "translation": "fliegen (vi)"
+        },
+        {
+            "word": "ловить",
+            "translation": "fangen (vt)"
+        },
+        {
+            "word": "ломать",
+            "translation": "brechen (vt)"
+        },
+        {
+            "word": "любить (кого-л.)",
+            "translation": "lieben (vt)"
+        },
+        {
+            "word": "молиться",
+            "translation": "beten (vi)"
+        },
+        {
+            "word": "молчать",
+            "translation": "schweigen (vi)"
+        },
+        {
+            "word": "мочь",
+            "translation": "können (v mod)"
+        },
+        {
+            "word": "наблюдать",
+            "translation": "beobachten (vt)"
+        },
+        {
+            "word": "надеяться",
+            "translation": "hoffen (vi)"
+        },
+        {
+            "word": "наказывать",
+            "translation": "bestrafen (vt)"
+        },
+        {
+            "word": "настаивать (упорствовать)",
+            "translation": "bestehen (vi)"
+        },
+        {
+            "word": "находить",
+            "translation": "finden (vt)"
+        },
+        {
+            "word": "начинать",
+            "translation": "beginnen (vt)"
+        },
+        {
+            "word": "недооценивать",
+            "translation": "unterschätzen (vt)"
+        },
+        {
+            "word": "нравиться",
+            "translation": "gefallen (vi)"
+        },
+        {
+            "word": "обедать",
+            "translation": "обедать"
+        },
+        {
+            "word": "обещать",
+            "translation": "versprechen (vt)"
+        },
+        {
+            "word": "обманывать",
+            "translation": "täuschen (vt)"
+        },
+        {
+            "word": "обсуждать",
+            "translation": "besprechen (vt)"
+        },
+        {
+            "word": "объединять",
+            "translation": "vereinigen (vt)"
+        },
+        {
+            "word": "объяснять",
+            "translation": "erklären (vt)"
+        },
+        {
+            "word": "означать",
+            "translation": "bedeuten (vt)"
+        },
+        {
+            "word": "освобождать (город)",
+            "translation": "befreien (vt)"
+        },
+        {
+            "word": "оскорблять",
+            "translation": "kränken (vt)"
+        },
+        {
+            "word": "останавливаться",
+            "translation": "stoppen (vt)"
+        },
+        {
+            "word": "отвечать",
+            "translation": "antworten (vi)"
+        },
+        {
+            "word": "отгадать",
+            "translation": "richtig raten (vt)"
+        },
+        {
+            "word": "отказываться",
+            "translation": "sich weigern"
+        },
+        {
+            "word": "открывать (дверь и т.п.)",
+            "translation": "öffnen (vt)"
+        },
+        {
+            "word": "отправлять",
+            "translation": "abschicken (vt)"
+        },
+        {
+            "word": "охотиться",
+            "translation": "jagen (vi)"
+        },
+        {
+            "word": "ошибаться",
+            "translation": "sich irren"
+        },
+        {
+            "word": "падать",
+            "translation": "fallen (vi)"
+        },
+        {
+            "word": "переводить (текст)",
+            "translation": "übersetzen (vt)"
+        },
+        {
+            "word": "писать",
+            "translation": "schreiben (vi, vt)"
+        },
+        {
+            "word": "плавать",
+            "translation": "schwimmen (vi)"
+        },
+        {
+            "word": "плакать",
+            "translation": "weinen (vi)"
+        },
+        {
+            "word": "планировать",
+            "translation": "planen (vt)"
+        },
+        {
+            "word": "платить",
+            "translation": "zahlen (vt)"
+        },
+        {
+            "word": "поворачивать",
+            "translation": "abbiegen (vi)"
+        },
+        {
+            "word": "повторять",
+            "translation": "noch einmal sagen"
+        },
+        {
+            "word": "подписывать",
+            "translation": "unterschreiben (vt)"
+        },
+        {
+            "word": "подсказать (отгадку)",
+            "translation": "andeuten (vt)"
+        },
+        {
+            "word": "показывать",
+            "translation": "zeigen (vt)"
+        },
+        {
+            "word": "помогать",
+            "translation": "helfen (vi)"
+        },
+        {
+            "word": "понимать",
+            "translation": "verstehen (vt)"
+        },
+        {
+            "word": "предвидеть (ожидать)",
+            "translation": "voraussehen (vt)"
+        },
+        {
+            "word": "предлагать",
+            "translation": "vorschlagen (vt)"
+        },
+        {
+            "word": "предпочитать",
+            "translation": "vorziehen (vt)"
+        },
+        {
+            "word": "предупреждать",
+            "translation": "warnen (vt)"
+        },
+        {
+            "word": "прекращать",
+            "translation": "einstellen (vt)"
+        },
+        {
+            "word": "приглашать",
+            "translation": "einladen (vt)"
+        },
+        {
+            "word": "приезжать",
+            "translation": "ankommen (vi)"
+        },
+        {
+            "word": "приказывать",
+            "translation": "befehlen (vt)"
+        },
+        {
+            "word": "принадлежать",
+            "translation": "gehören (vi)"
+        },
+        {
+            "word": "пробовать (пытаться)",
+            "translation": "versuchen (vt)"
+        },
+        {
+            "word": "продавать",
+            "translation": "verkaufen (vt)"
+        },
+        {
+            "word": "продолжать",
+            "translation": "fortsetzen (vt)"
+        },
+        {
+            "word": "произносить (слово)",
+            "translation": "aussprechen (vt)"
+        },
+        {
+            "word": "пропускать (занятия и т.п.)",
+            "translation": "versäumen (vt)"
+        },
+        {
+            "word": "просить",
+            "translation": "bitten (vt)"
+        },
+        {
+            "word": "прощать",
+            "translation": "verzeihen (vt)"
+        },
+        {
+            "word": "прятать",
+            "translation": "verstecken (vt)"
+        },
+        {
+            "word": "путать (ошибаться)",
+            "translation": "verwechseln (vt)"
+        },
+        {
+            "word": "работать",
+            "translation": "arbeiten (vi)"
+        },
+        {
+            "word": "разрешать",
+            "translation": "erlauben (vt)"
+        },
+        {
+            "word": "рассчитывать на ...",
+            "translation": "auf ... zählen"
+        },
+        {
+            "word": "резервировать",
+            "translation": "reservieren (vt)"
+        },
+        {
+            "word": "рекомендовать",
+            "translation": "empfehlen (vt)"
+        },
+        {
+            "word": "ронять",
+            "translation": "fallen lassen"
+        },
+        {
+            "word": "ругать",
+            "translation": "schelten (vt)"
+        },
+        {
+            "word": "руководить (чем-л.)",
+            "translation": "leiten (vt)"
+        },
+        {
+            "word": "рыть",
+            "translation": "graben (vt)"
+        },
+        {
+            "word": "13. Самые важные глаголы - 4",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        },
+        {
+            "word": "",
+            "translation": ""
+        }
+    ]
+}
