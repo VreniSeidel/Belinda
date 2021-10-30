@@ -43,7 +43,7 @@ const styles = StyleSheet.create({
     	margin: 20,
     	elevation: 10,
     	justifyContent: 'flex-start',
-		backgroundColor: '#00FFFA',
+		backgroundColor: '#4ED2F8',
     	alignItems: 'center',
     	borderColor: '#C0C0C0',
     	borderWidth: 0.1,
