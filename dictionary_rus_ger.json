@@ -3593,436 +3593,8512 @@
             "translation": "Zink (n)"
         },
         {
-            "word": "",
+            "word": "человек",
+            "translation": "Mensch (m)"
+        },
+        {
+            "word": "мужчина",
+            "translation": "Mann (m)"
+        },
+        {
+            "word": "женщина",
+            "translation": "Frau (f)"
+        },
+        {
+            "word": "ребёнок",
+            "translation": "Kind (n)"
+        },
+        {
+            "word": "девочка",
+            "translation": "cMädchen (n)"
+        },
+        {
+            "word": "мальчик",
+            "translation": "Junge (m)"
+        },
+        {
+            "word": "подросток",
+            "translation": "Teenager (m)"
+        },
+        {
+            "word": "старик",
+            "translation": "Greis (m)"
+        },
+        {
+            "word": "старая женщина",
+            "translation": "alte Frau (f)"
+        },
+        {
+            "word": "организм",
+            "translation": "Organismus (m)"
+        },
+        {
+            "word": "сердце",
+            "translation": "Herz (n)"
+        },
+        {
+            "word": "кровь",
+            "translation": "Blut"
+        },
+        {
+            "word": "артерия",
+            "translation": "Arterie (f)"
+        },
+        {
+            "word": "вена",
+            "translation": "Vene (f)"
+        },
+        {
+            "word": "мозг",
+            "translation": "Gehirn (n)"
+        },
+        {
+            "word": "нерв",
+            "translation": "Nerv (m)"
+        },
+        {
+            "word": "нервы",
+            "translation": "Nerven (pl)"
+        },
+        {
+            "word": "позвонок",
+            "translation": "Wirbel (m)"
+        },
+        {
+            "word": "позвоночник",
+            "translation": "Wirbelsäule (f)"
+        },
+        {
+            "word": "желудок",
+            "translation": "Magen (m)"
+        },
+        {
+            "word": "кишечник",
+            "translation": "Gedärm (n)"
+        },
+        {
+            "word": "кишка",
+            "translation": "Darm (m)"
+        },
+        {
+            "word": "печень",
+            "translation": "Leber (f)"
+        },
+        {
+            "word": "почка",
+            "translation": "Niere (f)"
+        },
+        {
+            "word": "кость",
+            "translation": "Knochen (m)"
+        },
+        {
+            "word": "скелет",
+            "translation": "Skelett (n)"
+        },
+        {
+            "word": "ребро",
+            "translation": "Rippe (f)"
+        },
+        {
+            "word": "череп",
+            "translation": "Schädel (m)"
+        },
+        {
+            "word": "мышца",
+            "translation": "Muskel (m)"
+        },
+        {
+            "word": "бицепс",
+            "translation": "Bizeps (m)"
+        },
+        {
+            "word": "трицепс",
+            "translation": "Trizeps (m)"
+        },
+        {
+            "word": "сухожилие",
+            "translation": "Sehne (f)"
+        },
+        {
+            "word": "сустав",
+            "translation": "Gelenk (n)"
+        },
+        {
+            "word": "лёгкие",
+            "translation": "Lungen (pl)"
+        },
+        {
+            "word": "половые органы",
+            "translation": "Geschlechtsorgane (pl)"
+        },
+        {
+            "word": "кожа",
+            "translation": "Haut (f)"
+        },
+        {
+            "word": "голова",
+            "translation": "Kopf (m)"
+        },
+        {
+            "word": "лицо",
+            "translation": "Gesicht (n)"
+        },
+        {
+            "word": "нос",
+            "translation": "Nase (f)"
+        },
+        {
+            "word": "рот",
+            "translation": "Mund (m)"
+        },
+        {
+            "word": "глаз",
+            "translation": "Auge (n)vv"
+        },
+        {
+            "word": "глаза",
+            "translation": "Augen (pl)"
+        },
+        {
+            "word": "зрачок",
+            "translation": "Pupille (f)"
+        },
+        {
+            "word": "бровь",
+            "translation": "Augenbraue (f)"
+        },
+        {
+            "word": "ресница",
+            "translation": "Wimper (f)"
+        },
+        {
+            "word": "веко",
+            "translation": "Augenlid (n)"
+        },
+        {
+            "word": "язык",
+            "translation": "Zunge (f)"
+        },
+        {
+            "word": "зуб",
+            "translation": "Zahn (m)"
+        },
+        {
+            "word": "губы",
+            "translation": "Lippen (pl)vv"
+        },
+        {
+            "word": "скулыv",
+            "translation": "Backenknochen (pl)"
+        },
+        {
+            "word": "десна",
+            "translation": "Zahnfleisch (n)"
+        },
+        {
+            "word": "нёбо",
+            "translation": "Gaumen (m)"
+        },
+        {
+            "word": "ноздри",
+            "translation": "Nasenlöcher (pl)"
+        },
+        {
+            "word": "подбородок",
+            "translation": "Kinn (n)"
+        },
+        {
+            "word": "челюсть",
+            "translation": "Kiefer (m)"
+        },
+        {
+            "word": "щека",
+            "translation": "Wange (f)vv"
+        },
+        {
+            "word": "лоб",
+            "translation": "Stirn (f)"
+        },
+        {
+            "word": "висок",
+            "translation": "Schläfe (f)"
+        },
+        {
+            "word": "ухо",
+            "translation": "Ohr (n)"
+        },
+        {
+            "word": "затылок",
+            "translation": "Nacken (m)"
+        },
+        {
+            "word": "шея",
+            "translation": "Hals (m)"
+        },
+        {
+            "word": "горло",
+            "translation": "Kehle (f)"
+        },
+        {
+            "word": "волосы",
+            "translation": "Haare (pl)"
+        },
+        {
+            "word": "причёска",
+            "translation": "Frisur (f)"
+        },
+        {
+            "word": "стрижка (причёска)",
+            "translation": "Haarschnitt (m)"
+        },
+        {
+            "word": "парик",
+            "translation": "Perücke (f)"
+        },
+        {
+            "word": "усы",
+            "translation": "Schnurrbart (m)"
+        },
+        {
+            "word": "борода",
+            "translation": "Bart (m)"
+        },
+        {
+            "word": "носить (усы, бороду)",
+            "translation": "haben (vt)"
+        },
+        {
+            "word": "коса",
+            "translation": "Zopf (m)"
+        },
+        {
+            "word": "бакенбарды",
+            "translation": "Backenbart (m)"
+        },
+        {
+            "word": "рыжий (человек)",
+            "translation": "rothaarig"
+        },
+        {
+            "word": "седой (о волосах)",
+            "translation": "grau"
+        },
+        {
+            "word": "лысый",
+            "translation": "kahl"
+        },
+        {
+            "word": "лысина",
+            "translation": "Glatze (f)"
+        },
+        {
+            "word": "хвост (причёска)",
+            "translation": "Pferdeschwanz (m)"
+        },
+        {
+            "word": "чёлка",
+            "translation": "Pony (m)"
+        },
+        {
+            "word": "кисть",
+            "translation": "Hand (f)"
+        },
+        {
+            "word": "рука (вся)",
+            "translation": "Arm (m)"
+        },
+        {
+            "word": "палец",
+            "translation": "Finger (m)"
+        },
+        {
+            "word": "большой палец",
+            "translation": "Daumen (m)"
+        },
+        {
+            "word": "мизинец",
+            "translation": "kleiner Finger (m)"
+        },
+        {
+            "word": "ноготь",
+            "translation": "Nagel (m)"
+        },
+        {
+            "word": "кулак",
+            "translation": "Faust (f)"
+        },
+        {
+            "word": "ладонь",
+            "translation": "Handfläche (f)"
+        },
+        {
+            "word": "запястье",
+            "translation": "Handgelenk (n)"
+        },
+        {
+            "word": "предплечье",
+            "translation": "Unterarm (m)"
+        },
+        {
+            "word": "локоть",
+            "translation": "Ellbogen (m)"
+        },
+        {
+            "word": "плечо",
+            "translation": "Schulter (f)"
+        },
+        {
+            "word": "нога (выше ступни)",
+            "translation": "Bein (n)"
+        },
+        {
+            "word": "ступня",
+            "translation": "Fuß (m)"
+        },
+        {
+            "word": "колено",
+            "translation": "Knie (n)"
+        },
+        {
+            "word": "икра",
+            "translation": "Wade (f)"
+        },
+        {
+            "word": "бедро",
+            "translation": "Hüfte (f)"
+        },
+        {
+            "word": "пятка",
+            "translation": "Ferse (f)"
+        },
+        {
+            "word": "тело",
+            "translation": "Körper (m)"
+        },
+        {
+            "word": "живот",
+            "translation": "Bauch (m)"
+        },
+        {
+            "word": "грудь",
+            "translation": "Brust (f)"
+        },
+        {
+            "word": "грудь (женская)",
+            "translation": "Busen (m)"
+        },
+        {
+            "word": "бок",
+            "translation": "Seite (f) , Flanke (f)"
+        },
+        {
+            "word": "спина",
+            "translation": "Rücken (m)"
+        },
+        {
+            "word": "поясница",
+            "translation": "Kreuz (n)"
+        },
+        {
+            "word": "талия",
+            "translation": "Taille (f)"
+        },
+        {
+            "word": "пупок",
+            "translation": "Nabel (m)"
+        },
+        {
+            "word": "ягодицы",
+            "translation": "Gesäße (pl)"
+        },
+        {
+            "word": "зад",
+            "translation": "Hinterteil (n)"
+        },
+        {
+            "word": "родинка",
+            "translation": "Leberfleck (m)"
+        },
+        {
+            "word": "родимое пятно",
+            "translation": "Muttermal (n)"
+        },
+        {
+            "word": "татуировкаvv",
+            "translation": "Tätowierung (f)"
+        },
+        {
+            "word": "шрам",
+            "translation": "Narbe (f)"
+        },
+        {
+            "word": "шрам",
+            "translation": "Narbe (f)"
+        },
+        {
+            "word": "одежда", 
+            "translation": "Kleidung (f)"
+        },
+        {
+            "word": "верхняя одежда", 
+            "translation": "Oberkleidung (f)"
+        },
+        {
+            "word": "зимняя одежда", 
+            "translation": "Winterkleidung (f)"
+        },
+        {
+            "word": "пальто", 
+            "translation": "Mantel (m)"
+        },
+        {
+            "word": "шуба", 
+            "translation": "Pelzmantel (m)"
+        },
+        {
+            "word": "полушубок", 
+            "translation": "Pelzjacke (f)"
+        },
+        {
+            "word": "пуховик", 
+            "translation": "Daunenjacke (f)"
+        },
+        {
+            "word": "куртка (кожаная и т.п.)", 
+            "translation": "Jacke (f)"
+        },
+        {
+            "word": "плащv", 
+            "translation": "Regenmantel (m)"
+        },
+        {
+            "word": "непромокаемый", 
+            "translation": "wasserdicht"
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
+            "translation": ""
+        },
+        {
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
         },
         {
-            "word": "",
+            "word": "", 
             "translation": ""
-        }
+        },
     ]
 }
